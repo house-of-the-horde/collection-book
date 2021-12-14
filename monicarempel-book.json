@@ -1,0 +1,465 @@
+{
+  "name": "Monica Rempel",
+  "series": [
+    {
+      "name": "Portraits",
+      "filters": [
+        {
+          "name": "Baby Animals",
+          "group": "babyanimalportraits",
+          "data": {}
+        },
+        {
+          "name": "Spiders",
+          "group": "spiderportraits",
+          "data": {}
+        },
+        {
+          "name": "Aliens",
+          "group": "alienportraits",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Landscapes",
+      "filters": [
+        {
+          "name": "Landscapes",
+          "group": "landscapes",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Stickers",
+      "filters": [
+        {
+          "name": "Aliens",
+          "schema_name": "aliensticker",
+          "data": {}
+        },
+        {
+          "name": "Animals",
+          "schema_name": "stickers",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Monica's Magor",
+      "filters": [
+        {
+          "name": "Magor",
+          "schema_name": "monicasmagor",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Photographs",
+      "filters": [
+        {
+          "name": "Photographs",
+          "schema_name": "photographs",
+          "data": {}
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "OG ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374678
+      ],
+      "name": "OG ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "PURPLE ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374679
+      ],
+      "name": "PURPLE ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "PINK ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374680
+      ],
+      "name": "PINK ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "ORANGE ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374681
+      ],
+      "name": "ORANGE ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "GREEN ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374683
+      ],
+      "name": "GREEN ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "YELLOW ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374684
+      ],
+      "name": "YELLOW ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "GREY ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374688
+      ],
+      "name": "GREY ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "INVERTED ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374689
+      ],
+      "name": "INVERTED ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "TWITCHED ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374762
+      ],
+      "name": "TWITCHED ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "RAINBOW ALIEN"
+      },
+      "attributes": [],
+      "template_ids": [
+        374807
+      ],
+      "name": "RAINBOW ALIEN"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Yellowish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [
+        394011
+      ],
+      "name": "Yellow Santa Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Greyish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [
+        394009
+      ],
+      "name": "Grey Santa Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "OG Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [
+        394008
+      ],
+      "name": "OG Santa Alien"
+    },
+    {
+      "schema_name": "stickers",
+      "data": {
+        "name": "OMG"
+      },
+      "attributes": [],
+      "template_ids": [
+        255188
+      ],
+      "name": "OMG"
+    },
+    {
+      "schema_name": "stickers",
+      "data": {
+        "name": "OH Hi!"
+      },
+      "attributes": [],
+      "template_ids": [
+        255922
+      ],
+      "name": "OH Hi!"
+    },
+    {
+      "schema_name": "stickers",
+      "data": {
+        "name": "Blue Morpho"
+      },
+      "attributes": [],
+      "template_ids": [
+        256955
+      ],
+      "name": "Blue Morpho"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 1"
+      },
+      "attributes": [],
+      "template_ids": [
+        329519
+      ],
+      "card_id": "Magorfly1"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 2"
+      },
+      "attributes": [],
+      "template_ids": [
+        329518
+      ],
+      "card_id": "Magorfly2"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 3"
+      },
+      "attributes": [],
+      "template_ids": [
+        329527
+      ],
+      "card_id": "Magorfly3"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 4"
+      },
+      "attributes": [],
+      "template_ids": [
+        329517
+      ],
+      "card_id": "Magorfly4"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 5"
+      },
+      "attributes": [],
+      "template_ids": [
+        329516
+      ],
+      "card_id": "Magorfly5"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 6"
+      },
+      "attributes": [],
+      "template_ids": [
+        329515
+      ],
+      "card_id": "Magorfly6"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Magorfly 7"
+      },
+      "attributes": [],
+      "template_ids": [
+        329514
+      ],
+      "card_id": "Magorfly7"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "Mega Magorfly"
+      },
+      "attributes": [],
+      "template_ids": [
+        358206
+      ],
+      "card_id": "MegaMagorfly"
+    },
+    {
+      "schema_name": "monicasmagor",
+      "data": {
+        "name": "The Flowers of Id"
+      },
+      "attributes": [],
+      "template_ids": [
+        358715
+      ],
+      "card_id": "The Flowers of Id"
+    },
+    {
+      "schema_name": "blendedupart",
+      "group": "landscapes",
+      "data": {
+        "name": "Prairie Sunrise"
+      },
+      "attributes": [],
+      "template_ids": [
+        362491
+      ],
+      "card_id": "Prairie Sunrise"
+    },
+    {
+      "schema_name": "blendedupart",
+      "data": {
+        "name": "Blue Alien"
+      },
+      "attributes": [],
+      "template_ids": [
+        366406
+      ],
+      "card_id": "Blue Alien"
+    },
+    {
+      "schema_name": "photographs",
+      "data": {
+        "name": "Sunflower"
+      },
+      "attributes": [],
+      "template_ids": [
+        240512
+      ],
+      "card_id": "Sunflower"
+    },
+    {
+      "schema_name": "babyanimals",
+      "group": "babyanimalportraits",
+      "data": {
+        "name": "Newborn Kitten"
+      },
+      "attributes": [],
+      "template_ids": [
+        236098
+      ],
+      "card_id": "Newborn Kitten"
+    },
+    {
+      "schema_name": "babyanimals",
+      "group": "babyanimalportraits",
+      "data": {
+        "name": "Litter Mates"
+      },
+      "attributes": [],
+      "template_ids": [
+        240497
+      ],
+      "card_id": "Litter Mates"
+    },
+    {
+      "schema_name": "babyanimals",
+      "group": "babyanimalportraits",
+      "data": {
+        "name": "Newborn Bunny"
+      },
+      "attributes": [],
+      "template_ids": [
+        245911
+      ],
+      "card_id": "Newborn Bunny"
+    },
+    {
+      "schema_name": "babyanimals",
+      "group": "babyanimalportraits",
+      "data": {
+        "name": "Newborn Giraffe"
+      },
+      "attributes": [],
+      "template_ids": [
+        253992
+      ],
+      "card_id": "Newborn Giraffe"
+    },
+    {
+      "schema_name": "babyanimals",
+      "group": "babyanimalportraits",
+      "data": {
+        "name": "Baby Wolf"
+      },
+      "attributes": [],
+      "template_ids": [
+        385629
+      ],
+      "card_id": "Baby Wolf"
+    },
+    {
+      "schema_name": "spiders",
+      "group": "spiderportraits",
+      "data": {
+        "name": "Versicolor Sling"
+      },
+      "attributes": [],
+      "template_ids": [
+        244261
+      ],
+      "card_id": "Versicolor Sling"
+    },
+    {
+      "schema_name": "blendedupart",
+      "group": "alienportraits",
+      "data": {
+        "name": "Blue Alien"
+      },
+      "attributes": [],
+      "template_ids": [
+        366406
+      ],
+      "card_id": "Blue Alien"
+    }
+  ]
+}

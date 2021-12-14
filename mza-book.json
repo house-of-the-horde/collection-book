@@ -1,0 +1,1267 @@
+{
+  "name": "My Zickle Army",
+  "series": [
+    {
+      "name": "Zickle Packs",
+      "filters": [
+        {
+          "name": "Promo",
+          "schema_name": "myzicklepack",
+          "data": {
+            "variant": "promo"
+          }
+        },
+        {
+          "name": "Genesis",
+          "schema_name": "myzicklepack",
+          "data": {
+            "edition": "genesis",
+            "variant": "base"
+          },
+          "custom": [
+            {
+              "key": "rarity",
+              "default": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magor 22:1",
+      "filters": [
+        {
+          "name": "Promo",
+          "group": "season1promo",
+          "data": {}
+
+        },
+        {
+          "name": "Skullflakes",
+          "schema_name": "skullflakes",
+          "data": {},
+          "custom": [
+            {
+              "key": "durability",
+              "default": null
+            }
+          ]
+        },
+        {
+          "name": "Mining Pass",
+          "schema_name": "magorgardens",
+          "data": {
+            "rarity": "gardening pass"
+          }
+        },
+        {
+          "name": "Season 1",
+          "group": "season1",
+          "data": {},
+          "custom": [
+            {
+              "key": "rarity",
+              "default": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "21",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366885
+      ],
+      "card_id": "21"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "20",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366884
+      ],
+      "card_id": "20"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "19",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366883
+      ],
+      "card_id": "19"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "18",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366891
+      ],
+      "card_id": "18"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "17",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366892
+      ],
+      "card_id": "17"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "16",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366893
+      ],
+      "card_id": "16"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "15",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366895
+      ],
+      "card_id": "15"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "14",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366897
+      ],
+      "card_id": "14"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "13",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366899
+      ],
+      "card_id": "13"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "12",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366901
+      ],
+      "card_id": "12"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "11",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366902
+      ],
+      "card_id": "11"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "10",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366905
+      ],
+      "card_id": "10"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "9",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366908
+      ],
+      "card_id": "9"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "8",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366909
+      ],
+      "card_id": "8"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "7",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366912
+      ],
+      "card_id": "7"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "6",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366914
+      ],
+      "card_id": "6"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "5",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366915
+      ],
+      "card_id": "5"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "4",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366916
+      ],
+      "card_id": "4"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "3",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366919
+      ],
+      "card_id": "3"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "2",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366920
+      ],
+      "card_id": "2"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "1",
+        "edition": "genesis",
+        "variant": "base"
+      },
+      "attributes": [],
+      "template_ids": [
+        366921
+      ],
+      "card_id": "1"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "6",
+        "variant": "promo"
+      },
+      "attributes": [],
+      "template_ids": [
+        373850
+      ],
+      "card_id": "DurdyDDPromo"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "21",
+        "variant": "promo"
+      },
+      "attributes": [],
+      "template_ids": [
+        375216
+      ],
+      "card_id": "ZicketPromo"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "19",
+        "variant": "promo"
+      },
+      "attributes": [],
+      "template_ids": [
+        376187
+      ],
+      "card_id": "SaltyConquerorPromo"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "16",
+        "variant": "promo"
+      },
+      "attributes": [],
+      "template_ids": [
+        376594
+      ],
+      "card_id": "PeggyPromo"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "14",
+        "variant": "promo"
+      },
+      "attributes": [],
+      "template_ids": [
+        377092
+      ],
+      "card_id": "MajorZickPromo"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #1"
+      },
+      "attributes": [],
+      "template_ids": [
+        364582
+      ],
+      "card_id": "MagorSkullflake1"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #2"
+      },
+      "attributes": [],
+      "template_ids": [
+        365433
+      ],
+      "card_id": "MagorSkullflake2"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #3"
+      },
+      "attributes": [],
+      "template_ids": [
+        366864
+      ],
+      "card_id": "MagorSkullflake3"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #4"
+      },
+      "attributes": [],
+      "template_ids": [
+        369716
+      ],
+      "card_id": "MagorSkullflake4"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #5"
+      },
+      "attributes": [],
+      "template_ids": [
+        375945
+      ],
+      "card_id": "MagorSkullflake5"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #6"
+      },
+      "attributes": [],
+      "template_ids": [
+        376439
+      ],
+      "card_id": "MagorSkullflake6"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #1"
+      },
+      "attributes": [],
+      "template_ids": [
+        377783
+      ],
+      "card_id": "MagorSnowball1"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #2"
+      },
+      "attributes": [],
+      "template_ids": [
+        377784
+      ],
+      "card_id": "MagorSnowball2"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #3"
+      },
+      "attributes": [],
+      "template_ids": [
+        377786
+      ],
+      "card_id": "MagorSnowball3"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #4"
+      },
+      "attributes": [],
+      "template_ids": [
+        383258
+      ],
+      "card_id": "MagorSnowball4"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #5"
+      },
+      "attributes": [],
+      "template_ids": [
+        383260
+      ],
+      "card_id": "MagorSnowball5"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Snowball #6"
+      },
+      "attributes": [],
+      "template_ids": [
+        383262
+      ],
+      "card_id": "MagorSnowball6"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #1"
+      },
+      "attributes": [],
+      "template_ids": [
+        384685
+      ],
+      "card_id": "Snowbeast1"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #2"
+      },
+      "attributes": [],
+      "template_ids": [
+        384688
+      ],
+      "card_id": "Snowbeast2"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #3"
+      },
+      "attributes": [],
+      "template_ids": [
+        384697
+      ],
+      "card_id": "Snowbeast3"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #4"
+      },
+      "attributes": [],
+      "template_ids": [
+        384698
+      ],
+      "card_id": "Snowbeast4"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #5"
+      },
+      "attributes": [],
+      "template_ids": [
+        384699
+      ],
+      "card_id": "Snowbeast5"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Snowbeast #6"
+      },
+      "attributes": [],
+      "template_ids": [
+        384700
+      ],
+      "card_id": "Snowbeast6"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #1 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385881
+      ],
+      "card_id": "MagorSkullflake1Commemorative"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #2 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385878
+      ],
+      "card_id": "MagorSkullflake2Commemorative"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #3 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385871
+      ],
+      "card_id": "MagorSkullflake3Commemorative"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #4 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385862
+      ],
+      "card_id": "MagorSkullflake4Commemorative"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #5 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385852
+      ],
+      "card_id": "MagorSkullflake5Commemorative"
+    },
+    {
+      "schema_name": "skullflakes",
+      "data": {
+        "name": "Magor Skullflake #6 | commemorative"
+      },
+      "attributes": [],
+      "template_ids": [
+        385837
+      ],
+      "card_id": "MagorSkullflake6Commemorative"
+    },
+    {
+      "schema_name": "magorgardens",
+      "data": {
+        "name": "Gardening Pass | Alien River",
+        "rarity": "gardening pass"
+      },
+      "attributes": [],
+      "template_ids": [
+        316025
+      ],
+      "name": "Gardening Pass | Alien River"
+    },
+    {
+      "schema_name": "magorgardens",
+      "data": {
+        "name": "Gardening Pass | byronartset1",
+        "rarity": "gardening pass"
+      },
+      "attributes": [],
+      "template_ids": [
+        316321
+      ],
+      "name": "Gardening Pass | byronartset1"
+    },
+    {
+      "schema_name": "magorgardens",
+      "data": {
+        "name": "Gardening Pass | monicarempel",
+        "rarity": "gardening pass"
+      },
+      "attributes": [],
+      "template_ids": [
+        329200
+      ],
+      "name": "Gardening Pass | monicarempel"
+    },
+    {
+      "schema_name": "magorgardens",
+      "data": {
+        "name": "Magor Blizzard Pass",
+        "rarity": "gardening pass"
+      },
+      "attributes": [],
+      "template_ids": [
+        364612
+      ],
+      "name": "Magor Blizzard Pass"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Portchlaka",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        317681
+      ],
+      "card_id": "PortchlakaCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Maligolio",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        317683
+      ],
+      "card_id": "MaligolioCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Sukyoulent",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        317788
+      ],
+      "card_id": "SukyoulentCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Brainseed Berries",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        328082
+      ],
+      "card_id": "BrainseedBerriesCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Fuzfennel",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        317682
+      ],
+      "card_id": "FuzfennelCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "uncommon",
+        "name": "Fuzfennel",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318601
+      ],
+      "card_id": "FuzfennelUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "uncommon",
+        "name": "Brainseed Berries",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        331520
+      ],
+      "card_id": "BrainseedBerriesUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "uncommon",
+        "name": "Sukyoulent",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318604
+      ],
+      "card_id": "SukyoulentUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "uncommon",
+        "name": "Maligolio",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318598
+      ],
+      "card_id": "MaligolioUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "uncommon",
+        "name": "Portchlaka",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318597
+      ],
+      "card_id": "PortchlakaUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "rare",
+        "name": "Brainseed Berries",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        331521
+      ],
+      "card_id": "BrainseedBerriesRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "rare",
+        "name": "Sukyoulent",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318612
+      ],
+      "card_id": "BrainseedBerriesRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "rare",
+        "name": "Maligolio",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318611
+      ],
+      "card_id": "MaligolioRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "rare",
+        "name": "Fuzfennel",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318610
+      ],
+      "card_id": "FuzfennelRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "rare",
+        "name": "Portchlaka",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318609
+      ],
+      "card_id": "PortchlakaRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Flannelups",
+        "card_id": 20,
+        "season": 1,
+        "rarity": "reward"
+      },
+      "attributes": [],
+      "template_ids": [
+        359894
+      ],
+      "card_id": "FlannelupsRewardCommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Flannelups",
+        "card_id": 21,
+        "season": 1,
+        "rarity": "reward"
+      },
+      "attributes": [],
+      "template_ids": [
+        359895
+      ],
+      "card_id": "FlannelupsRewardUncommon"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Flannelups",
+        "card_id": 22,
+        "season": 1,
+        "rarity": "reward"
+      },
+      "attributes": [],
+      "template_ids": [
+        359896
+      ],
+      "card_id": "FlannelupsRewardRare"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Flannelups",
+        "img": "QmVR9WGNDKKtnjNYd7kEX9roJKUiywsdukLCEtKL727aAh",
+        "rarity": "reward"
+      },
+      "attributes": [],
+      "template_ids": [
+        358678
+      ],
+      "name": "FlannelupsRewardAll"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Portchlaka",
+        "rarity": "reward",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        358614
+      ],
+      "name": "PortchlakaReward"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Fuzfennel",
+        "rarity": "reward",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        358616
+      ],
+      "name": "FuzfennelReward"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Maligolio",
+        "rarity": "reward",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        358618
+      ],
+      "name": "MaligolioReward"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Sukyoulent",
+        "rarity": "reward",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        358619
+      ],
+      "name": "SukyoulentReward"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "name": "Brainseed Berries",
+        "rarity": "reward",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        358677
+      ],
+      "name": "BrainseedBerriesReward"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 5,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318637
+      ],
+      "card_id": "PotShard1"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 6,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318638
+      ],
+      "card_id": "PotShard2"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 7,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318639
+      ],
+      "card_id": "PotShard3"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 8,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318640
+      ],
+      "card_id": "PotShard4"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 9,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318656
+      ],
+      "card_id": "PotShard5"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 10,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318657
+      ],
+      "card_id": "PotShard6"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 11,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318660
+      ],
+      "card_id": "PotShard7"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "card_id": 12,
+        "rarity": "shard",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        318659
+      ],
+      "card_id": "PotShard8"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1",
+      "data": {
+        "rarity": "common",
+        "name": "Basic Magor Planter",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        336766
+      ],
+      "card_id": "BasicMagorPlanter"
+    },
+    {
+      "schema_name": "myzicklegame",
+      "group": "season1",
+      "data": {
+        "card_id": "22",
+        "rarity": "gold",
+        "season": "1"
+      },
+      "attributes": [],
+      "template_ids": [
+        340489
+      ],
+      "card_id": "QueenMaggorPotGoldBorder"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1promo",
+      "data": {
+        "name": "1/4 Knockerly",
+        "rarity": "rare",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        328174
+      ],
+      "card_id": "Knockerly1"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1promo",
+      "data": {
+        "name": "2/4 Knockerly",
+        "rarity": "rare",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        328175
+      ],
+      "card_id": "Knockerly2"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1promo",
+      "data": {
+        "name": "3/4 Knockerly",
+        "rarity": "rare",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        328176
+      ],
+      "card_id": "Knockerly3"
+    },
+    {
+      "schema_name": "weedsofmagor",
+      "group": "season1promo",
+      "data": {
+        "name": "4/4 Knockerly",
+        "rarity": "rare",
+        "season": 1
+      },
+      "attributes": [],
+      "template_ids": [
+        328178
+      ],
+      "card_id": "Knockerly4"
+    },
+    {
+      "schema_name": "myzicklegame",
+      "group": "season1promo",
+      "data": {
+        "name": "Knockerly",
+        "rarity": "promo",
+        "season": "1"
+      },
+      "attributes": [],
+      "template_ids": [
+        328153
+      ],
+      "card_id": "Knockerly"
+    }
+  ]
+}

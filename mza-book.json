@@ -24,6 +24,19 @@
               "default": null
             }
           ]
+        },
+        {
+          "name": "12 Days of Zickles",
+          "schema_name": "myzicklepack",
+          "data": {
+            "edition": "12 Days of Zickles"
+          },
+          "custom": [
+            {
+              "key": "variant",
+              "default": null
+            }
+          ]
         }
       ]
     },
@@ -341,6 +354,32 @@
         366921
       ],
       "card_id": "1"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "1",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [
+        391628
+      ],
+      "card_id": "PickleJarUnderTreeSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "1",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [
+        396032
+      ],
+      "card_id": "PickleJarUnderTreeColour"
     },
     {
       "schema_name": "myzicklepack",

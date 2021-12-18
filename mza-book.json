@@ -384,6 +384,112 @@
     {
       "schema_name": "myzicklepack",
       "data": {
+        "card_id": "2",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [
+        391629
+      ],
+      "card_id": "TwoGiantGherkinsSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "2",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [
+        396608
+      ],
+      "card_id": "TwoGiantGherkinsColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "3",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [
+        391630
+      ],
+      "card_id": "ThreeSaltyFrenchFriesSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "3",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [
+        397308
+      ],
+      "card_id": "ThreeSaltyFrenchFriesColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "4",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch",
+        "img": "QmfBv3YxqegbS4tENLfqG5Q1VhuvHaujXcmcvkuKA7MfxY"
+      },
+      "attributes": [],
+      "template_ids": [
+        391631
+      ],
+      "card_id": "FourCrackedEggsSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "4",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch",
+        "img": "QmUgFhKkyVewzxvjeGxGCqghiJ67RVA4pNMQjQfVMqdML4"
+      },
+      "attributes": [],
+      "template_ids": [
+        398265
+      ],
+      "card_id": "FourCrackedEggsColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "5",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [
+        398875
+      ],
+      "card_id": "FiveMoldSporesSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "5",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [
+        398934
+      ],
+      "card_id": "FiveMoldSporesColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
         "card_id": "6",
         "variant": "promo"
       },

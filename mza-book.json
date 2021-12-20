@@ -47,7 +47,6 @@
           "name": "Promo",
           "group": "season1promo",
           "data": {}
-
         },
         {
           "name": "Skullflakes",
@@ -90,9 +89,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366885
-      ],
+      "template_ids": [366885],
       "card_id": "21"
     },
     {
@@ -103,9 +100,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366884
-      ],
+      "template_ids": [366884],
       "card_id": "20"
     },
     {
@@ -116,9 +111,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366883
-      ],
+      "template_ids": [366883],
       "card_id": "19"
     },
     {
@@ -129,9 +122,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366891
-      ],
+      "template_ids": [366891],
       "card_id": "18"
     },
     {
@@ -142,9 +133,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366892
-      ],
+      "template_ids": [366892],
       "card_id": "17"
     },
     {
@@ -155,9 +144,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366893
-      ],
+      "template_ids": [366893],
       "card_id": "16"
     },
     {
@@ -168,9 +155,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366895
-      ],
+      "template_ids": [366895],
       "card_id": "15"
     },
     {
@@ -181,9 +166,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366897
-      ],
+      "template_ids": [366897],
       "card_id": "14"
     },
     {
@@ -194,9 +177,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366899
-      ],
+      "template_ids": [366899],
       "card_id": "13"
     },
     {
@@ -207,9 +188,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366901
-      ],
+      "template_ids": [366901],
       "card_id": "12"
     },
     {
@@ -220,9 +199,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366902
-      ],
+      "template_ids": [366902],
       "card_id": "11"
     },
     {
@@ -233,9 +210,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366905
-      ],
+      "template_ids": [366905],
       "card_id": "10"
     },
     {
@@ -246,9 +221,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366908
-      ],
+      "template_ids": [366908],
       "card_id": "9"
     },
     {
@@ -259,9 +232,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366909
-      ],
+      "template_ids": [366909],
       "card_id": "8"
     },
     {
@@ -272,9 +243,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366912
-      ],
+      "template_ids": [366912],
       "card_id": "7"
     },
     {
@@ -285,9 +254,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366914
-      ],
+      "template_ids": [366914],
       "card_id": "6"
     },
     {
@@ -298,9 +265,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366915
-      ],
+      "template_ids": [366915],
       "card_id": "5"
     },
     {
@@ -311,9 +276,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366916
-      ],
+      "template_ids": [366916],
       "card_id": "4"
     },
     {
@@ -324,9 +287,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366919
-      ],
+      "template_ids": [366919],
       "card_id": "3"
     },
     {
@@ -337,9 +298,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366920
-      ],
+      "template_ids": [366920],
       "card_id": "2"
     },
     {
@@ -350,9 +309,7 @@
         "variant": "base"
       },
       "attributes": [],
-      "template_ids": [
-        366921
-      ],
+      "template_ids": [366921],
       "card_id": "1"
     },
     {
@@ -363,9 +320,7 @@
         "variant": "sketch"
       },
       "attributes": [],
-      "template_ids": [
-        391628
-      ],
+      "template_ids": [391628],
       "card_id": "PickleJarUnderTreeSketch"
     },
     {
@@ -376,9 +331,7 @@
         "variant": "colour"
       },
       "attributes": [],
-      "template_ids": [
-        396032
-      ],
+      "template_ids": [396032],
       "card_id": "PickleJarUnderTreeColour"
     },
     {
@@ -389,9 +342,7 @@
         "variant": "sketch"
       },
       "attributes": [],
-      "template_ids": [
-        391629
-      ],
+      "template_ids": [391629],
       "card_id": "TwoGiantGherkinsSketch"
     },
     {
@@ -402,9 +353,7 @@
         "variant": "colour"
       },
       "attributes": [],
-      "template_ids": [
-        396608
-      ],
+      "template_ids": [396608],
       "card_id": "TwoGiantGherkinsColour"
     },
     {
@@ -415,9 +364,7 @@
         "variant": "sketch"
       },
       "attributes": [],
-      "template_ids": [
-        391630
-      ],
+      "template_ids": [391630],
       "card_id": "ThreeSaltyFrenchFriesSketch"
     },
     {
@@ -428,9 +375,7 @@
         "variant": "colour"
       },
       "attributes": [],
-      "template_ids": [
-        397308
-      ],
+      "template_ids": [397308],
       "card_id": "ThreeSaltyFrenchFriesColour"
     },
     {
@@ -442,9 +387,7 @@
         "img": "QmfBv3YxqegbS4tENLfqG5Q1VhuvHaujXcmcvkuKA7MfxY"
       },
       "attributes": [],
-      "template_ids": [
-        391631
-      ],
+      "template_ids": [391631],
       "card_id": "FourCrackedEggsSketch"
     },
     {
@@ -456,9 +399,7 @@
         "img": "QmUgFhKkyVewzxvjeGxGCqghiJ67RVA4pNMQjQfVMqdML4"
       },
       "attributes": [],
-      "template_ids": [
-        398265
-      ],
+      "template_ids": [398265],
       "card_id": "FourCrackedEggsColour"
     },
     {
@@ -469,9 +410,7 @@
         "variant": "sketch"
       },
       "attributes": [],
-      "template_ids": [
-        398875
-      ],
+      "template_ids": [398875],
       "card_id": "FiveMoldSporesSketch"
     },
     {
@@ -482,10 +421,52 @@
         "variant": "colour"
       },
       "attributes": [],
-      "template_ids": [
-        398934
-      ],
+      "template_ids": [398934],
       "card_id": "FiveMoldSporesColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "6",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [399380],
+      "card_id": "SixGreasyBackonStripsSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "6",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [399386],
+      "card_id": "SixGreasyBackonStripsColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "7",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [400139],
+      "card_id": "SevenBrokenCandyCanesSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "7",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [400140],
+      "card_id": "SevenBrokenCandyCanesColour"
     },
     {
       "schema_name": "myzicklepack",
@@ -494,9 +475,7 @@
         "variant": "promo"
       },
       "attributes": [],
-      "template_ids": [
-        373850
-      ],
+      "template_ids": [373850],
       "card_id": "DurdyDDPromo"
     },
     {
@@ -506,9 +485,7 @@
         "variant": "promo"
       },
       "attributes": [],
-      "template_ids": [
-        375216
-      ],
+      "template_ids": [375216],
       "card_id": "ZicketPromo"
     },
     {
@@ -518,9 +495,7 @@
         "variant": "promo"
       },
       "attributes": [],
-      "template_ids": [
-        376187
-      ],
+      "template_ids": [376187],
       "card_id": "SaltyConquerorPromo"
     },
     {
@@ -530,9 +505,7 @@
         "variant": "promo"
       },
       "attributes": [],
-      "template_ids": [
-        376594
-      ],
+      "template_ids": [376594],
       "card_id": "PeggyPromo"
     },
     {
@@ -542,9 +515,7 @@
         "variant": "promo"
       },
       "attributes": [],
-      "template_ids": [
-        377092
-      ],
+      "template_ids": [377092],
       "card_id": "MajorZickPromo"
     },
     {
@@ -553,9 +524,7 @@
         "name": "Magor Skullflake #1"
       },
       "attributes": [],
-      "template_ids": [
-        364582
-      ],
+      "template_ids": [364582],
       "card_id": "MagorSkullflake1"
     },
     {
@@ -564,9 +533,7 @@
         "name": "Magor Skullflake #2"
       },
       "attributes": [],
-      "template_ids": [
-        365433
-      ],
+      "template_ids": [365433],
       "card_id": "MagorSkullflake2"
     },
     {
@@ -575,9 +542,7 @@
         "name": "Magor Skullflake #3"
       },
       "attributes": [],
-      "template_ids": [
-        366864
-      ],
+      "template_ids": [366864],
       "card_id": "MagorSkullflake3"
     },
     {
@@ -586,9 +551,7 @@
         "name": "Magor Skullflake #4"
       },
       "attributes": [],
-      "template_ids": [
-        369716
-      ],
+      "template_ids": [369716],
       "card_id": "MagorSkullflake4"
     },
     {
@@ -597,9 +560,7 @@
         "name": "Magor Skullflake #5"
       },
       "attributes": [],
-      "template_ids": [
-        375945
-      ],
+      "template_ids": [375945],
       "card_id": "MagorSkullflake5"
     },
     {
@@ -608,9 +569,7 @@
         "name": "Magor Skullflake #6"
       },
       "attributes": [],
-      "template_ids": [
-        376439
-      ],
+      "template_ids": [376439],
       "card_id": "MagorSkullflake6"
     },
     {
@@ -619,9 +578,7 @@
         "name": "Magor Snowball #1"
       },
       "attributes": [],
-      "template_ids": [
-        377783
-      ],
+      "template_ids": [377783],
       "card_id": "MagorSnowball1"
     },
     {
@@ -630,9 +587,7 @@
         "name": "Magor Snowball #2"
       },
       "attributes": [],
-      "template_ids": [
-        377784
-      ],
+      "template_ids": [377784],
       "card_id": "MagorSnowball2"
     },
     {
@@ -641,9 +596,7 @@
         "name": "Magor Snowball #3"
       },
       "attributes": [],
-      "template_ids": [
-        377786
-      ],
+      "template_ids": [377786],
       "card_id": "MagorSnowball3"
     },
     {
@@ -652,9 +605,7 @@
         "name": "Magor Snowball #4"
       },
       "attributes": [],
-      "template_ids": [
-        383258
-      ],
+      "template_ids": [383258],
       "card_id": "MagorSnowball4"
     },
     {
@@ -663,9 +614,7 @@
         "name": "Magor Snowball #5"
       },
       "attributes": [],
-      "template_ids": [
-        383260
-      ],
+      "template_ids": [383260],
       "card_id": "MagorSnowball5"
     },
     {
@@ -674,9 +623,7 @@
         "name": "Magor Snowball #6"
       },
       "attributes": [],
-      "template_ids": [
-        383262
-      ],
+      "template_ids": [383262],
       "card_id": "MagorSnowball6"
     },
     {
@@ -685,9 +632,7 @@
         "name": "Snowbeast #1"
       },
       "attributes": [],
-      "template_ids": [
-        384685
-      ],
+      "template_ids": [384685],
       "card_id": "Snowbeast1"
     },
     {
@@ -696,9 +641,7 @@
         "name": "Snowbeast #2"
       },
       "attributes": [],
-      "template_ids": [
-        384688
-      ],
+      "template_ids": [384688],
       "card_id": "Snowbeast2"
     },
     {
@@ -707,9 +650,7 @@
         "name": "Snowbeast #3"
       },
       "attributes": [],
-      "template_ids": [
-        384697
-      ],
+      "template_ids": [384697],
       "card_id": "Snowbeast3"
     },
     {
@@ -718,9 +659,7 @@
         "name": "Snowbeast #4"
       },
       "attributes": [],
-      "template_ids": [
-        384698
-      ],
+      "template_ids": [384698],
       "card_id": "Snowbeast4"
     },
     {
@@ -729,9 +668,7 @@
         "name": "Snowbeast #5"
       },
       "attributes": [],
-      "template_ids": [
-        384699
-      ],
+      "template_ids": [384699],
       "card_id": "Snowbeast5"
     },
     {
@@ -740,9 +677,7 @@
         "name": "Snowbeast #6"
       },
       "attributes": [],
-      "template_ids": [
-        384700
-      ],
+      "template_ids": [384700],
       "card_id": "Snowbeast6"
     },
     {
@@ -751,9 +686,7 @@
         "name": "Magor Skullflake #1 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385881
-      ],
+      "template_ids": [385881],
       "card_id": "MagorSkullflake1Commemorative"
     },
     {
@@ -762,9 +695,7 @@
         "name": "Magor Skullflake #2 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385878
-      ],
+      "template_ids": [385878],
       "card_id": "MagorSkullflake2Commemorative"
     },
     {
@@ -773,9 +704,7 @@
         "name": "Magor Skullflake #3 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385871
-      ],
+      "template_ids": [385871],
       "card_id": "MagorSkullflake3Commemorative"
     },
     {
@@ -784,9 +713,7 @@
         "name": "Magor Skullflake #4 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385862
-      ],
+      "template_ids": [385862],
       "card_id": "MagorSkullflake4Commemorative"
     },
     {
@@ -795,9 +722,7 @@
         "name": "Magor Skullflake #5 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385852
-      ],
+      "template_ids": [385852],
       "card_id": "MagorSkullflake5Commemorative"
     },
     {
@@ -806,9 +731,7 @@
         "name": "Magor Skullflake #6 | commemorative"
       },
       "attributes": [],
-      "template_ids": [
-        385837
-      ],
+      "template_ids": [385837],
       "card_id": "MagorSkullflake6Commemorative"
     },
     {
@@ -818,9 +741,7 @@
         "rarity": "gardening pass"
       },
       "attributes": [],
-      "template_ids": [
-        316025
-      ],
+      "template_ids": [316025],
       "name": "Gardening Pass | Alien River"
     },
     {
@@ -830,9 +751,7 @@
         "rarity": "gardening pass"
       },
       "attributes": [],
-      "template_ids": [
-        316321
-      ],
+      "template_ids": [316321],
       "name": "Gardening Pass | byronartset1"
     },
     {
@@ -842,9 +761,7 @@
         "rarity": "gardening pass"
       },
       "attributes": [],
-      "template_ids": [
-        329200
-      ],
+      "template_ids": [329200],
       "name": "Gardening Pass | monicarempel"
     },
     {
@@ -854,9 +771,7 @@
         "rarity": "gardening pass"
       },
       "attributes": [],
-      "template_ids": [
-        364612
-      ],
+      "template_ids": [364612],
       "name": "Magor Blizzard Pass"
     },
     {
@@ -868,9 +783,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        317681
-      ],
+      "template_ids": [317681],
       "card_id": "PortchlakaCommon"
     },
     {
@@ -882,9 +795,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        317683
-      ],
+      "template_ids": [317683],
       "card_id": "MaligolioCommon"
     },
     {
@@ -896,9 +807,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        317788
-      ],
+      "template_ids": [317788],
       "card_id": "SukyoulentCommon"
     },
     {
@@ -910,9 +819,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        328082
-      ],
+      "template_ids": [328082],
       "card_id": "BrainseedBerriesCommon"
     },
     {
@@ -924,9 +831,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        317682
-      ],
+      "template_ids": [317682],
       "card_id": "FuzfennelCommon"
     },
     {
@@ -938,9 +843,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318601
-      ],
+      "template_ids": [318601],
       "card_id": "FuzfennelUncommon"
     },
     {
@@ -952,9 +855,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        331520
-      ],
+      "template_ids": [331520],
       "card_id": "BrainseedBerriesUncommon"
     },
     {
@@ -966,9 +867,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318604
-      ],
+      "template_ids": [318604],
       "card_id": "SukyoulentUncommon"
     },
     {
@@ -980,9 +879,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318598
-      ],
+      "template_ids": [318598],
       "card_id": "MaligolioUncommon"
     },
     {
@@ -994,9 +891,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318597
-      ],
+      "template_ids": [318597],
       "card_id": "PortchlakaUncommon"
     },
     {
@@ -1008,9 +903,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        331521
-      ],
+      "template_ids": [331521],
       "card_id": "BrainseedBerriesRare"
     },
     {
@@ -1022,9 +915,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318612
-      ],
+      "template_ids": [318612],
       "card_id": "BrainseedBerriesRare"
     },
     {
@@ -1036,9 +927,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318611
-      ],
+      "template_ids": [318611],
       "card_id": "MaligolioRare"
     },
     {
@@ -1050,9 +939,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318610
-      ],
+      "template_ids": [318610],
       "card_id": "FuzfennelRare"
     },
     {
@@ -1064,9 +951,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318609
-      ],
+      "template_ids": [318609],
       "card_id": "PortchlakaRare"
     },
     {
@@ -1079,9 +964,7 @@
         "rarity": "reward"
       },
       "attributes": [],
-      "template_ids": [
-        359894
-      ],
+      "template_ids": [359894],
       "card_id": "FlannelupsRewardCommon"
     },
     {
@@ -1094,9 +977,7 @@
         "rarity": "reward"
       },
       "attributes": [],
-      "template_ids": [
-        359895
-      ],
+      "template_ids": [359895],
       "card_id": "FlannelupsRewardUncommon"
     },
     {
@@ -1109,9 +990,7 @@
         "rarity": "reward"
       },
       "attributes": [],
-      "template_ids": [
-        359896
-      ],
+      "template_ids": [359896],
       "card_id": "FlannelupsRewardRare"
     },
     {
@@ -1123,9 +1002,7 @@
         "rarity": "reward"
       },
       "attributes": [],
-      "template_ids": [
-        358678
-      ],
+      "template_ids": [358678],
       "name": "FlannelupsRewardAll"
     },
     {
@@ -1137,9 +1014,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        358614
-      ],
+      "template_ids": [358614],
       "name": "PortchlakaReward"
     },
     {
@@ -1151,9 +1026,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        358616
-      ],
+      "template_ids": [358616],
       "name": "FuzfennelReward"
     },
     {
@@ -1165,9 +1038,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        358618
-      ],
+      "template_ids": [358618],
       "name": "MaligolioReward"
     },
     {
@@ -1179,9 +1050,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        358619
-      ],
+      "template_ids": [358619],
       "name": "SukyoulentReward"
     },
     {
@@ -1193,9 +1062,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        358677
-      ],
+      "template_ids": [358677],
       "name": "BrainseedBerriesReward"
     },
     {
@@ -1207,9 +1074,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318637
-      ],
+      "template_ids": [318637],
       "card_id": "PotShard1"
     },
     {
@@ -1221,9 +1086,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318638
-      ],
+      "template_ids": [318638],
       "card_id": "PotShard2"
     },
     {
@@ -1235,9 +1098,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318639
-      ],
+      "template_ids": [318639],
       "card_id": "PotShard3"
     },
     {
@@ -1249,9 +1110,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318640
-      ],
+      "template_ids": [318640],
       "card_id": "PotShard4"
     },
     {
@@ -1263,9 +1122,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318656
-      ],
+      "template_ids": [318656],
       "card_id": "PotShard5"
     },
     {
@@ -1277,9 +1134,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318657
-      ],
+      "template_ids": [318657],
       "card_id": "PotShard6"
     },
     {
@@ -1291,9 +1146,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318660
-      ],
+      "template_ids": [318660],
       "card_id": "PotShard7"
     },
     {
@@ -1305,9 +1158,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        318659
-      ],
+      "template_ids": [318659],
       "card_id": "PotShard8"
     },
     {
@@ -1319,9 +1170,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        336766
-      ],
+      "template_ids": [336766],
       "card_id": "BasicMagorPlanter"
     },
     {
@@ -1333,9 +1182,7 @@
         "season": "1"
       },
       "attributes": [],
-      "template_ids": [
-        340489
-      ],
+      "template_ids": [340489],
       "card_id": "QueenMaggorPotGoldBorder"
     },
     {
@@ -1347,9 +1194,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        328174
-      ],
+      "template_ids": [328174],
       "card_id": "Knockerly1"
     },
     {
@@ -1361,9 +1206,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        328175
-      ],
+      "template_ids": [328175],
       "card_id": "Knockerly2"
     },
     {
@@ -1375,9 +1218,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        328176
-      ],
+      "template_ids": [328176],
       "card_id": "Knockerly3"
     },
     {
@@ -1389,9 +1230,7 @@
         "season": 1
       },
       "attributes": [],
-      "template_ids": [
-        328178
-      ],
+      "template_ids": [328178],
       "card_id": "Knockerly4"
     },
     {
@@ -1403,9 +1242,7 @@
         "season": "1"
       },
       "attributes": [],
-      "template_ids": [
-        328153
-      ],
+      "template_ids": [328153],
       "card_id": "Knockerly"
     }
   ]

@@ -471,6 +471,50 @@
     {
       "schema_name": "myzicklepack",
       "data": {
+        "card_id": "8",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [400991],
+      "card_id": "EightCansOfBugSpraySketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "8",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [400992],
+      "card_id": "EightCansOfBugSprayColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "9",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [401160],
+      "card_id": "NineLadiesFingersSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "9",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [401402],
+      "card_id": "NineLadiesFingersColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
         "card_id": "6",
         "variant": "promo"
       },

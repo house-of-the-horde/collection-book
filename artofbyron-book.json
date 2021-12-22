@@ -1,0 +1,304 @@
+{
+  "name": "Art of Byron",
+  "series": [
+    {
+      "name": "Zombie Sketch Pack",
+      "filters": [
+        {
+          "name": "Zombie Sketch Pack",
+          "schema_name": "zmbsktchpak1",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Zombie Worlds",
+      "filters": [
+        {
+          "name": "Common",
+          "schema_name": "zombieworlds",
+          "data": {
+            "rarity": "common"
+          }
+        },
+        {
+          "name": "Uncommon",
+          "schema_name": "zombieworlds",
+          "data": {
+            "rarity": "uncommon"
+          }
+        },
+        {
+          "name": "Rare",
+          "schema_name": "zombieworlds",
+          "data": {
+            "rarity": "rare"
+          }
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "Zombie Sketch Pack SurpriZuh"
+      },
+      "attributes": [],
+      "template_ids": [401001],
+      "name": "Zombie Sketch Pack SurpriZuh"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "ODDITE"
+      },
+      "attributes": [],
+      "template_ids": [401003],
+      "name": "ODDITE"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "STARGELNAZ"
+      },
+      "attributes": [],
+      "template_ids": [401004],
+      "name": "STARGELNAZ"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "DATAJUNKIE"
+      },
+      "attributes": [],
+      "template_ids": [401005],
+      "name": "DATAJUNKIE"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "PVMIHALACHE"
+      },
+      "attributes": [],
+      "template_ids": [401006],
+      "name": "PVMIHALACHE"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "POTTER513"
+      },
+      "attributes": [],
+      "template_ids": [401007],
+      "name": "POTTER513"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "ALFRESTIG_GNOME"
+      },
+      "attributes": [],
+      "template_ids": [401008],
+      "name": "ALFRESTIG_GNOME"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "MEEBOO"
+      },
+      "attributes": [],
+      "template_ids": [401009],
+      "name": "MEEBOO"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "ODY"
+      },
+      "attributes": [],
+      "template_ids": [401010],
+      "name": "ODY"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "LEMUEL4EVER"
+      },
+      "attributes": [],
+      "template_ids": [401011],
+      "name": "LEMUEL4EVER"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "GOODWINRA"
+      },
+      "attributes": [],
+      "template_ids": [401012],
+      "name": "GOODWINRA"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "R1ZZLER"
+      },
+      "attributes": [],
+      "template_ids": [401013],
+      "name": "R1ZZLER"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "DAVEGERMANY"
+      },
+      "attributes": [],
+      "template_ids": [401015],
+      "name": "DAVEGERMANY"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "PPBD"
+      },
+      "attributes": [],
+      "template_ids": [401016],
+      "name": "PPBD"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "FINEST"
+      },
+      "attributes": [],
+      "template_ids": [401017],
+      "name": "FINEST"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "GLUBGLUB"
+      },
+      "attributes": [],
+      "template_ids": [401018],
+      "name": "GLUBGLUB"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "CLARKSTACHIO"
+      },
+      "attributes": [],
+      "template_ids": [401019],
+      "name": "CLARKSTACHIO"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "ZICKLE inna SANTA HAT"
+      },
+      "attributes": [],
+      "template_ids": [401020],
+      "name": "ZICKLE inna SANTA HAT"
+    },
+    {
+      "schema_name": "zmbsktchpak1",
+      "data": {
+        "name": "SKULLFACE SANTA"
+      },
+      "attributes": [],
+      "template_ids": [401021],
+      "name": "SKULLFACE SANTA"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Rachel",
+        "rarity": "common"
+      },
+      "attributes": [],
+      "template_ids": [391949],
+      "name": "Rachel"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Joyce",
+        "rarity": "common"
+      },
+      "attributes": [],
+      "template_ids": [391951],
+      "name": "Joyce"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "DC Dude",
+        "rarity": "common"
+      },
+      "attributes": [],
+      "template_ids": [391955],
+      "name": "DC Dude"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Clark",
+        "rarity": "uncommon"
+      },
+      "attributes": [],
+      "template_ids": [391942, 392130],
+      "name": "Clark"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Scuri",
+        "rarity": "uncommon"
+      },
+      "attributes": [],
+      "template_ids": [391943],
+      "name": "Scuri"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Chrono",
+        "rarity": "uncommon"
+      },
+      "attributes": [],
+      "template_ids": [391945],
+      "name": "Chrono"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Marcel",
+        "rarity": "uncommon"
+      },
+      "attributes": [],
+      "template_ids": [391947],
+      "name": "Marcel"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Frazel",
+        "rarity": "rare"
+      },
+      "attributes": [],
+      "template_ids": [391935],
+      "name": "Frazel"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Lil",
+        "rarity": "rare"
+      },
+      "attributes": [],
+      "template_ids": [391938],
+      "name": "Lil"
+    }
+  ]
+}

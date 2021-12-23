@@ -2,6 +2,16 @@
   "name": "Art of Byron",
   "series": [
     {
+      "name": "Holidaze 2021",
+      "filters": [
+        {
+          "name": "Holidaze 2021",
+          "schema_name": "holidaze..21",
+          "data": {}
+        }
+      ]
+    },
+    {
       "name": "Zombie Sketch Pack",
       "filters": [
         {
@@ -15,25 +25,9 @@
       "name": "Zombie Worlds",
       "filters": [
         {
-          "name": "Common",
+          "name": "Zombie Worlds",
           "schema_name": "zombieworlds",
-          "data": {
-            "rarity": "common"
-          }
-        },
-        {
-          "name": "Uncommon",
-          "schema_name": "zombieworlds",
-          "data": {
-            "rarity": "uncommon"
-          }
-        },
-        {
-          "name": "Rare",
-          "schema_name": "zombieworlds",
-          "data": {
-            "rarity": "rare"
-          }
+          "data": {}
         }
       ]
     }
@@ -213,78 +207,205 @@
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Rachel",
-        "rarity": "common"
+        "name": "Unblinking Terror"
       },
       "attributes": [],
-      "template_ids": [391949],
-      "name": "Rachel"
+      "template_ids": [125943],
+      "name": "Unblinking Terror"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Joyce",
-        "rarity": "common"
+        "name": "TriTicSkull Beings"
       },
       "attributes": [],
-      "template_ids": [391951],
-      "name": "Joyce"
+      "template_ids": [126146],
+      "name": "TriTicSkull Beings"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "DC Dude",
-        "rarity": "common"
+        "name": "Suss Succkler"
       },
       "attributes": [],
-      "template_ids": [391955],
-      "name": "DC Dude"
+      "template_ids": [126151],
+      "name": "Suss Succkler"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Clark",
-        "rarity": "uncommon"
+        "name": "ReProgrammed"
       },
       "attributes": [],
-      "template_ids": [391942, 392130],
-      "name": "Clark"
+      "template_ids": [126179],
+      "name": "ReProgrammed"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Scuri",
-        "rarity": "uncommon"
+        "name": "UG Zombie"
       },
       "attributes": [],
-      "template_ids": [391943],
-      "name": "Scuri"
+      "template_ids": [126310],
+      "name": "UG Zombie"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Chrono",
-        "rarity": "uncommon"
+        "name": "AquaCatic Creatures"
       },
       "attributes": [],
-      "template_ids": [391945],
-      "name": "Chrono"
+      "template_ids": [126554],
+      "name": "AquaCatic Creatures"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Marcel",
-        "rarity": "uncommon"
+        "name": "Mad Jaccows"
       },
       "attributes": [],
-      "template_ids": [391947],
-      "name": "Marcel"
+      "template_ids": [144369],
+      "name": "Mad Jaccows"
     },
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Frazel",
-        "rarity": "rare"
+        "name": "Phennickers"
+      },
+      "attributes": [],
+      "template_ids": [144463],
+      "name": "Phennickers"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "OptiQuin Monster"
+      },
+      "attributes": [],
+      "template_ids": [144470],
+      "name": "OptiQuin Monster"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Old Gross New Growth"
+      },
+      "attributes": [],
+      "template_ids": [144483],
+      "name": "Old Gross New Growth"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Freddy's Nuts"
+      },
+      "attributes": [],
+      "template_ids": [147564],
+      "name": "Freddy's Nuts"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Green Mist Meow"
+      },
+      "attributes": [],
+      "template_ids": [177613],
+      "name": "Green Mist Meow"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Distressed Terror"
+      },
+      "attributes": [],
+      "template_ids": [177615],
+      "name": "Distressed Terror"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Wasted Barren"
+      },
+      "attributes": [],
+      "template_ids": [177632],
+      "name": "Wasted Barren"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Shovel Tap"
+      },
+      "attributes": [],
+      "template_ids": [197430],
+      "name": "Shovel Tap"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "the Greens"
+      },
+      "attributes": [],
+      "template_ids": [204998],
+      "name": "the Greens"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Wired Weirdly"
+      },
+      "attributes": [],
+      "template_ids": [205044],
+      "name": "Wired Weirdly"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Bacon Ate 'er"
+      },
+      "attributes": [],
+      "template_ids": [223494],
+      "name": "Bacon Ate 'er"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "the Blonde"
+      },
+      "attributes": [],
+      "template_ids": [223503],
+      "name": "the Blonde"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Pink Oozey"
+      },
+      "attributes": [],
+      "template_ids": [223506],
+      "name": "Pink Oozey"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Night Creep"
+      },
+      "attributes": [],
+      "template_ids": [223507],
+      "name": "Night Creep"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Dead Pin Head"
+      },
+      "attributes": [],
+      "template_ids": [223509],
+      "name": "Dead Pin Head"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Frazel"
       },
       "attributes": [],
       "template_ids": [391935],
@@ -293,12 +414,139 @@
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Lil",
-        "rarity": "rare"
+        "name": "Lil"
       },
       "attributes": [],
       "template_ids": [391938],
       "name": "Lil"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Clark"
+      },
+      "attributes": [],
+      "template_ids": [391942, 392130],
+      "name": "Clark"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Scuri"
+      },
+      "attributes": [],
+      "template_ids": [391943],
+      "name": "Scuri"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Chrono"
+      },
+      "attributes": [],
+      "template_ids": [391945],
+      "name": "Chrono"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Marcel"
+      },
+      "attributes": [],
+      "template_ids": [391947],
+      "name": "Marcel"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Rachel"
+      },
+      "attributes": [],
+      "template_ids": [391949],
+      "name": "Rachel"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "Joyce"
+      },
+      "attributes": [],
+      "template_ids": [391951],
+      "name": "Joyce"
+    },
+    {
+      "schema_name": "zombieworlds",
+      "data": {
+        "name": "DC Dude"
+      },
+      "attributes": [],
+      "template_ids": [391955],
+      "name": "DC Dude"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Holidaze 2021 Ornament OG"
+      },
+      "attributes": [],
+      "template_ids": [390521],
+      "name": "Holidaze 2021 Ornament OG"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Star Sucker"
+      },
+      "attributes": [],
+      "template_ids": [391898],
+      "name": "Star Sucker"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Snowman one"
+      },
+      "attributes": [],
+      "template_ids": [393004],
+      "name": "Snowman one"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Penta-Demon Horror Ornament",
+        "img": "QmWb54NyE3sDcEDL7ZSrngiiRHSXSipPTvwyUubJapAez9"
+      },
+      "attributes": [],
+      "template_ids": [394036],
+      "name": "Penta-Demon Horror Ornament"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Penta-Demon Horror Ornament",
+        "img": "Qme1g5m5tacmARB5wmthPH6kx3zgxgNF7SdhKTv4eTsg3W"
+      },
+      "attributes": [],
+      "template_ids": [394038],
+      "name": "Penta-Demon Horror Ornament"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Ginger Beast"
+      },
+      "attributes": [],
+      "template_ids": [396573],
+      "name": "Ginger Beast"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Ho Ho HORROR"
+      },
+      "attributes": [],
+      "template_ids": [398315],
+      "name": "Ho Ho HORROR"
     }
   ]
 }

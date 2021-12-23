@@ -314,6 +314,16 @@
       "card_id": "Prairie Sunset"
     },
     {
+      "schema_name": "animatedarts",
+      "group": "landscapes",
+      "data": {
+        "name": "Prairie Sunrise fade to Sunset"
+      },
+      "attributes": [],
+      "template_ids": [401993],
+      "card_id": "Prairie Sunrise fade to Sunset"
+    },
+    {
       "schema_name": "blendedupart",
       "data": {
         "name": "Blue Alien"

@@ -515,6 +515,28 @@
     {
       "schema_name": "myzicklepack",
       "data": {
+        "card_id": "10",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [401865],
+      "card_id": "TenGourdsOfMagorSketch"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "10",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [401868],
+      "card_id": "TenGourdsOfMagorColour"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
         "card_id": "6",
         "variant": "promo"
       },

@@ -537,6 +537,50 @@
     {
       "schema_name": "myzicklepack",
       "data": {
+        "card_id": "11",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [403430],
+      "card_id": "ElevenPickledPigsFeet"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "11",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [403432],
+      "card_id": "ElevenPickledPigsFeet"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "12",
+        "edition": "12 Days of Zickles",
+        "variant": "sketch"
+      },
+      "attributes": [],
+      "template_ids": [404109],
+      "card_id": "12GrimeyEarthworms"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
+        "card_id": "12",
+        "edition": "12 Days of Zickles",
+        "variant": "colour"
+      },
+      "attributes": [],
+      "template_ids": [404111],
+      "card_id": "12GrimeyEarthworms"
+    },
+    {
+      "schema_name": "myzicklepack",
+      "data": {
         "card_id": "6",
         "variant": "promo"
       },

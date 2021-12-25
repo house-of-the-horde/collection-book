@@ -542,6 +542,15 @@
     {
       "schema_name": "holidaze..21",
       "data": {
+        "name": "2021 Horror Holiday Tree"
+      },
+      "attributes": [],
+      "template_ids": [403591],
+      "name": "2021 Horror Holiday Tree"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
         "name": "Ho Ho HORROR"
       },
       "attributes": [],

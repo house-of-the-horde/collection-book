@@ -2,6 +2,16 @@
   "name": "Art of Byron",
   "series": [
     {
+      "name": "Subscription",
+      "filters": [
+        {
+          "name": "Subscription",
+          "schema_name": "subscription",
+          "data": {}
+        }
+      ]
+    },
+    {
       "name": "Derps",
       "filters": [
         {
@@ -914,6 +924,33 @@
       "attributes": [],
       "template_ids": [405108],
       "name": "A Slice Inside "
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Fomo Blinds You (GreyScale)"
+      },
+      "attributes": [],
+      "template_ids": [406026],
+      "name": "Fomo Blinds You (GreyScale)"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Fomo Blinds You"
+      },
+      "attributes": [],
+      "template_ids": [406811],
+      "name": "Fomo Blinds You"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Zombie Cat Killed 2021"
+      },
+      "attributes": [],
+      "template_ids": [407489],
+      "name": "Zombie Cat Killed 2021"
     }
   ]
 }

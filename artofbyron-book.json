@@ -2,6 +2,21 @@
   "name": "Art of Byron",
   "series": [
     {
+      "name": "Derps",
+      "filters": [
+        {
+          "name": "Series 1",
+          "schema_name": "derpsmiles",
+          "data": {}
+        },
+        {
+          "name": "Series 2",
+          "schema_name": "derpseries2",
+          "data": {}
+        }
+      ]
+    },
+    {
       "name": "Holidaze 2021",
       "filters": [
         {
@@ -33,15 +48,6 @@
     }
   ],
   "data": [
-    {
-      "schema_name": "zmbsktchpak1",
-      "data": {
-        "name": "Zombie Sketch Pack SurpriZuh"
-      },
-      "attributes": [],
-      "template_ids": [401001],
-      "name": "Zombie Sketch Pack SurpriZuh"
-    },
     {
       "schema_name": "zmbsktchpak1",
       "data": {
@@ -423,10 +429,11 @@
     {
       "schema_name": "zombieworlds",
       "data": {
-        "name": "Clark"
+        "name": "Clark",
+        "img": "QmNMTvCrxJQ8H1Esk5qBgrp9nC8SDusKsqyQg9eNEAiLRU"
       },
       "attributes": [],
-      "template_ids": [391942, 392130],
+      "template_ids": [392130],
       "name": "Clark"
     },
     {
@@ -556,6 +563,357 @@
       "attributes": [],
       "template_ids": [398315],
       "name": "Ho Ho HORROR"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Red Eye Spied"
+      },
+      "attributes": [],
+      "template_ids": [280900],
+      "name": "Red Eye Spied"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Oh Val!"
+      },
+      "attributes": [],
+      "template_ids": [280902],
+      "name": "Oh Val!"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Orange Surround"
+      },
+      "attributes": [],
+      "template_ids": [280903],
+      "name": "Orange Surround"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Zombie Derp"
+      },
+      "attributes": [],
+      "template_ids": [280904],
+      "name": "Zombie Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Incognito"
+      },
+      "attributes": [],
+      "template_ids": [280906],
+      "name": "Incognito"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "FAUX-D"
+      },
+      "attributes": [],
+      "template_ids": [280907],
+      "name": "FAUX-D"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Bed Head"
+      },
+      "attributes": [],
+      "template_ids": [280908],
+      "name": "Bed Head"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Nostril Holes"
+      },
+      "attributes": [],
+      "template_ids": [280909],
+      "name": "Nostril Holes"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Puffer"
+      },
+      "attributes": [],
+      "template_ids": [280910],
+      "name": "Puffer"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "J.A.Z. Derp"
+      },
+      "attributes": [],
+      "template_ids": [280911],
+      "name": "J.A.Z. Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Smellsalot"
+      },
+      "attributes": [],
+      "template_ids": [280912],
+      "name": "Smellsalot"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Tri-Spike"
+      },
+      "attributes": [],
+      "template_ids": [280913],
+      "name": "Tri-Spike"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Coffee Derp"
+      },
+      "attributes": [],
+      "template_ids": [280914],
+      "name": "Coffee Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Heart of Derp"
+      },
+      "attributes": [],
+      "template_ids": [280915],
+      "name": "Heart of Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Whitey McWhite"
+      },
+      "attributes": [],
+      "template_ids": [280918],
+      "name": "Whitey McWhite"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Ant Alien"
+      },
+      "attributes": [],
+      "template_ids": [280920],
+      "name": "Ant Alien"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Demon Derp"
+      },
+      "attributes": [],
+      "template_ids": [280921],
+      "name": "Demon Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Headaches"
+      },
+      "attributes": [],
+      "template_ids": [280922],
+      "name": "Headaches"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Punk"
+      },
+      "attributes": [],
+      "template_ids": [280923],
+      "name": "Punk"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Ginger Derp"
+      },
+      "attributes": [],
+      "template_ids": [280925],
+      "name": "Ginger Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Orange Consumed"
+      },
+      "attributes": [],
+      "template_ids": [284918],
+      "name": "Orange Consumed"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Scribbly Sunny Derp"
+      },
+      "attributes": [],
+      "template_ids": [383340],
+      "name": "Scribbly Sunny Derp"
+    },
+    {
+      "schema_name": "derpsmiles",
+      "data": {
+        "name": "Colourful Derpy Sun"
+      },
+      "attributes": [],
+      "template_ids": [383669],
+      "name": "Colourful Derpy Sun"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Tongue o' Fun"
+      },
+      "attributes": [],
+      "template_ids": [404993],
+      "name": "Tongue o' Fun"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Thursday"
+      },
+      "attributes": [],
+      "template_ids": [404995],
+      "name": "Thursday"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "S'only a Smile"
+      },
+      "attributes": [],
+      "template_ids": [404996],
+      "name": "S'only a Smile"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Snail"
+      },
+      "attributes": [],
+      "template_ids": [404998],
+      "name": "Snail"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Derp and Bones"
+      },
+      "attributes": [],
+      "template_ids": [405000],
+      "name": "Derp and Bones"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Shroomy"
+      },
+      "attributes": [],
+      "template_ids": [405002],
+      "name": "Shroomy"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Ray Green"
+      },
+      "attributes": [],
+      "template_ids": [405003],
+      "name": "Ray Green"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Quatra DerPus"
+      },
+      "attributes": [],
+      "template_ids": [405004],
+      "name": "Quatra DerPus"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Purple DERple"
+      },
+      "attributes": [],
+      "template_ids": [405005],
+      "name": "Purple DERple"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Pat Der Phish"
+      },
+      "attributes": [],
+      "template_ids": [405007],
+      "name": "Pat Der Phish"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Derp from Space"
+      },
+      "attributes": [],
+      "template_ids": [405008],
+      "name": "Derp from Space"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Daisy dERP"
+      },
+      "attributes": [],
+      "template_ids": [405009],
+      "name": "Daisy dERP"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "deRP Whale"
+      },
+      "attributes": [],
+      "template_ids": [405010],
+      "name": "deRP Whale"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "Danny Boyle"
+      },
+      "attributes": [],
+      "template_ids": [405011],
+      "name": "Danny Boyle"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "derP da Beard"
+      },
+      "attributes": [],
+      "template_ids": [405012],
+      "name": "derP da Beard"
+    },
+    {
+      "schema_name": "derpseries2",
+      "data": {
+        "name": "A Slice Inside "
+      },
+      "attributes": [],
+      "template_ids": [405108],
+      "name": "A Slice Inside "
     }
   ]
 }

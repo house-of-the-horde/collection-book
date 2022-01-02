@@ -5,13 +5,6 @@
       "name": "Zickle Packs",
       "filters": [
         {
-          "name": "Promo",
-          "schema_name": "myzicklepack",
-          "data": {
-            "variant": "promo"
-          }
-        },
-        {
           "name": "Genesis",
           "schema_name": "myzicklepack",
           "data": {
@@ -43,11 +36,6 @@
     {
       "name": "Magor 22:1",
       "filters": [
-        {
-          "name": "Promo",
-          "group": "season1promo",
-          "data": {}
-        },
         {
           "name": "Skullflakes",
           "schema_name": "skullflakes",
@@ -577,56 +565,6 @@
       "attributes": [],
       "template_ids": [404111],
       "card_id": "12GrimeyEarthworms"
-    },
-    {
-      "schema_name": "myzicklepack",
-      "data": {
-        "card_id": "6",
-        "variant": "promo"
-      },
-      "attributes": [],
-      "template_ids": [373850],
-      "card_id": "DurdyDDPromo"
-    },
-    {
-      "schema_name": "myzicklepack",
-      "data": {
-        "card_id": "21",
-        "variant": "promo"
-      },
-      "attributes": [],
-      "template_ids": [375216],
-      "card_id": "ZicketPromo"
-    },
-    {
-      "schema_name": "myzicklepack",
-      "data": {
-        "card_id": "19",
-        "variant": "promo"
-      },
-      "attributes": [],
-      "template_ids": [376187],
-      "card_id": "SaltyConquerorPromo"
-    },
-    {
-      "schema_name": "myzicklepack",
-      "data": {
-        "card_id": "16",
-        "variant": "promo"
-      },
-      "attributes": [],
-      "template_ids": [376594],
-      "card_id": "PeggyPromo"
-    },
-    {
-      "schema_name": "myzicklepack",
-      "data": {
-        "card_id": "14",
-        "variant": "promo"
-      },
-      "attributes": [],
-      "template_ids": [377092],
-      "card_id": "MajorZickPromo"
     },
     {
       "schema_name": "skullflakes",
@@ -1294,66 +1232,6 @@
       "attributes": [],
       "template_ids": [340489],
       "card_id": "QueenMaggorPotGoldBorder"
-    },
-    {
-      "schema_name": "weedsofmagor",
-      "group": "season1promo",
-      "data": {
-        "name": "1/4 Knockerly",
-        "rarity": "rare",
-        "season": 1
-      },
-      "attributes": [],
-      "template_ids": [328174],
-      "card_id": "Knockerly1"
-    },
-    {
-      "schema_name": "weedsofmagor",
-      "group": "season1promo",
-      "data": {
-        "name": "2/4 Knockerly",
-        "rarity": "rare",
-        "season": 1
-      },
-      "attributes": [],
-      "template_ids": [328175],
-      "card_id": "Knockerly2"
-    },
-    {
-      "schema_name": "weedsofmagor",
-      "group": "season1promo",
-      "data": {
-        "name": "3/4 Knockerly",
-        "rarity": "rare",
-        "season": 1
-      },
-      "attributes": [],
-      "template_ids": [328176],
-      "card_id": "Knockerly3"
-    },
-    {
-      "schema_name": "weedsofmagor",
-      "group": "season1promo",
-      "data": {
-        "name": "4/4 Knockerly",
-        "rarity": "rare",
-        "season": 1
-      },
-      "attributes": [],
-      "template_ids": [328178],
-      "card_id": "Knockerly4"
-    },
-    {
-      "schema_name": "myzicklegame",
-      "group": "season1promo",
-      "data": {
-        "name": "Knockerly",
-        "rarity": "promo",
-        "season": "1"
-      },
-      "attributes": [],
-      "template_ids": [328153],
-      "card_id": "Knockerly"
     }
   ]
 }

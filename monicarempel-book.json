@@ -2,6 +2,16 @@
   "name": "Monica Rempel",
   "series": [
     {
+      "name": "Flower Garden",
+      "filters": [
+        {
+          "name": "Flower Garden",
+          "schema_name": "flowergarden",
+          "data": {}
+        }
+      ]
+    },
+    {
       "name": "Portraits",
       "filters": [
         {
@@ -410,6 +420,177 @@
       "attributes": [],
       "template_ids": [366406],
       "card_id": "Blue Alien"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "African Daisy"
+      },
+      "attributes": [],
+      "template_ids": [433309],
+      "name": "African Daisy"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Crocus"
+      },
+      "attributes": [],
+      "template_ids": [433316],
+      "name": "Crocus"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Purple Tulip"
+      },
+      "attributes": [],
+      "template_ids": [433322],
+      "name": "Purple Tulip"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Peacock Spider"
+      },
+      "attributes": [],
+      "template_ids": [433359],
+      "name": "Peacock Spider"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Polyphemus Moth"
+      },
+      "attributes": [],
+      "template_ids": [433383],
+      "name": "Polyphemus Moth"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Magor Moth"
+      },
+      "attributes": [],
+      "template_ids": [433389],
+      "name": "Magor Moth"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Blue Morpho Butterfly Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433396],
+      "name": "Blue Morpho Butterfly Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Magor Moth Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433397],
+      "name": "Magor Moth Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Magor Spider Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433406],
+      "name": "Magor Spider Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Polyphemus Moth Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433407],
+      "name": "Polyphemus Moth Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Versicolor Sling Spider Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433420],
+      "name": "Versicolor Sling Spider Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Peacock Spider Sticker"
+      },
+      "attributes": [],
+      "template_ids": [433421],
+      "name": "Peacock Spider Sticker"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Triptych Flower"
+      },
+      "attributes": [],
+      "template_ids": [433422],
+      "name": "Triptych Flower"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower Slice #5"
+      },
+      "attributes": [],
+      "template_ids": [433425],
+      "name": "Devils Doorbell Magor Flower Slice #5"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower Slice #4"
+      },
+      "attributes": [],
+      "template_ids": [433427],
+      "name": "Devils Doorbell Magor Flower Slice #4"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower Slice #3"
+      },
+      "attributes": [],
+      "template_ids": [433435],
+      "name": "Devils Doorbell Magor Flower Slice #3"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower Slice #2"
+      },
+      "attributes": [],
+      "template_ids": [433455],
+      "name": "Devils Doorbell Magor Flower Slice #2"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower Slice #1"
+      },
+      "attributes": [],
+      "template_ids": [433456],
+      "name": "Devils Doorbell Magor Flower Slice #1"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Devils Doorbell Magor Flower"
+      },
+      "attributes": [],
+      "template_ids": [433467],
+      "name": "Devils Doorbell Magor Flower"
     }
   ]
 }

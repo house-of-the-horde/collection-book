@@ -48,6 +48,11 @@
           ]
         },
         {
+          "name": "Funzie Flakes",
+          "group": "funzieflakes",
+          "data": {}
+        },
+        {
           "name": "Mining Pass",
           "schema_name": "magorgardens",
           "data": {
@@ -64,6 +69,16 @@
               "default": null
             }
           ]
+        }
+      ]
+    },
+    {
+      "name": "Rando Zickles",
+      "filters": [
+        {
+          "name": "Rando Zickles",
+          "schema_name": "randozickles",
+          "data": {}
         }
       ]
     }
@@ -1232,6 +1247,74 @@
       "attributes": [],
       "template_ids": [340489],
       "card_id": "QueenMaggorPotGoldBorder"
+    },
+    {
+      "schema_name": "randozickles",
+      "data": {
+        "name": "Thurd Eye Blind"
+      },
+      "attributes": [],
+      "template_ids": [410895],
+      "card_id": "Thurd Eye Blind"
+    },
+    {
+      "schema_name": "randozickles",
+      "data": {
+        "name": "Screwed Up Zickle"
+      },
+      "attributes": [],
+      "template_ids": [412050],
+      "name": "Screwed Up Zickle"
+    },
+    {
+      "schema_name": "funzieflakes",
+      "group": "funzieflakes",
+      "data": {
+        "name": "Funzie SkullFlake #3"
+      },
+      "attributes": [],
+      "template_ids": [411206],
+      "card_id": "Funzie SkullFlake #3"
+    },
+    {
+      "schema_name": "funzieflakes",
+      "group": "funzieflakes",
+      "data": {
+        "name": "Funzie SkullFlake #2"
+      },
+      "attributes": [],
+      "template_ids": [411205],
+      "card_id": "Funzie SkullFlake #2"
+    },
+    {
+      "schema_name": "funzieflakes",
+      "group": "funzieflakes",
+      "data": {
+        "name": "Funzie SkullFlake #1"
+      },
+      "attributes": [],
+      "template_ids": [411204],
+      "card_id": "Funzie SkullFlake #1"
+    },
+    {
+      "schema_name": "flakeyblends",
+      "group": "funzieflakes",
+      "data": {
+        "name": "Skull Flake Henchman #1"
+      },
+      "attributes": [],
+      "template_ids": [429098],
+      "card_id": "Skull Flake Henchman #1"
+    },
+    {
+      "schema_name": "flakeyblends",
+      "group": "funzieflakes",
+      "data": {
+        "name": "Skull Flake Henchman #2"
+      },
+      "attributes": [],
+      "template_ids": [429844],
+      "card_id": "Skull Flake Henchman #2"
     }
   ]
 }

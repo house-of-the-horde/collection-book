@@ -2,12 +2,20 @@
   "name": "Art of Byron",
   "series": [
     {
-      "name": "Subscription",
+      "name": "Subscription '22",
       "filters": [
         {
-          "name": "Subscription",
-          "schema_name": "subscription",
+          "name": "January",
+          "group": "subscription-jan2022",
           "data": {}
+        },
+        {
+          "name": "February",
+          "schema_name": "subscription",
+          "data": {
+            "month": "February",
+            "year": "2022"
+          }
         }
       ]
     },
@@ -27,7 +35,7 @@
       ]
     },
     {
-      "name": "Holidaze 2021",
+      "name": "Holidaze '21",
       "filters": [
         {
           "name": "Holidaze 2021",
@@ -575,6 +583,33 @@
       "name": "Ho Ho HORROR"
     },
     {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Deady Bear 2021"
+      },
+      "attributes": [],
+      "template_ids": [404280],
+      "name": "Deady Bear 2021"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Zombie Doll 2021"
+      },
+      "attributes": [],
+      "template_ids": [404281],
+      "name": "Zombie Doll 2021"
+    },
+    {
+      "schema_name": "holidaze..21",
+      "data": {
+        "name": "Byrons Skull Snow Globe 2021"
+      },
+      "attributes": [],
+      "template_ids": [404282],
+      "name": "Byrons Skull Snow Globe 2021"
+    },
+    {
       "schema_name": "derpsmiles",
       "data": {
         "name": "Red Eye Spied"
@@ -927,6 +962,17 @@
     },
     {
       "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "January 2022 AirDrop Subscription for Byrons NFTart"
+      },
+      "attributes": [],
+      "template_ids": [405847],
+      "name": "January 2022 AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
       "data": {
         "name": "Fomo Blinds You (GreyScale)"
       },
@@ -936,6 +982,7 @@
     },
     {
       "schema_name": "subscription",
+      "group": "subscription-jan2022",
       "data": {
         "name": "Fomo Blinds You"
       },
@@ -945,12 +992,308 @@
     },
     {
       "schema_name": "subscription",
+      "group": "subscription-jan2022",
       "data": {
         "name": "Zombie Cat Killed 2021"
       },
       "attributes": [],
       "template_ids": [407489],
       "name": "Zombie Cat Killed 2021"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "GEROFF MALAWN ! ! !"
+      },
+      "attributes": [],
+      "template_ids": [407700],
+      "name": "GEROFF MALAWN ! ! !"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "WAX Skull"
+      },
+      "attributes": [],
+      "template_ids": [408040],
+      "name": "WAX Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Past Terror"
+      },
+      "attributes": [],
+      "template_ids": [408436],
+      "name": "Past Terror"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "No Hugs Given"
+      },
+      "attributes": [],
+      "template_ids": [409130],
+      "name": "No Hugs Given"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "No Hugs Given - colourized"
+      },
+      "attributes": [],
+      "template_ids": [409347],
+      "name": "No Hugs Given - colourized"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Saturday Sunshine"
+      },
+      "attributes": [],
+      "template_ids": [409929],
+      "name": "Saturday Sunshine"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Crescent Moon"
+      },
+      "attributes": [],
+      "template_ids": [410008],
+      "name": "Crescent Moon"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Monday Morning Coffee #1"
+      },
+      "attributes": [],
+      "template_ids": [410462],
+      "name": "Monday Morning Coffee #1"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Yin Yang of WAX"
+      },
+      "attributes": [],
+      "template_ids": [411101],
+      "name": "Yin Yang of WAX"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Drawning Zickles"
+      },
+      "attributes": [],
+      "template_ids": [411495],
+      "name": "Drawning Zickles"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Zombie Reaching"
+      },
+      "attributes": [],
+      "template_ids": [411964],
+      "name": "Zombie Reaching"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Watercolour Zombie Cat and Skull"
+      },
+      "attributes": [],
+      "template_ids": [412318],
+      "name": "Watercolour Zombie Cat and Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Green Skull"
+      },
+      "attributes": [],
+      "template_ids": [412955],
+      "name": "Green Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Chicken Soup for the Cold"
+      },
+      "attributes": [],
+      "template_ids": [413550],
+      "name": "Chicken Soup for the Cold"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Feeling Blue and Sick Too"
+      },
+      "attributes": [],
+      "template_ids": [414176],
+      "name": "Feeling Blue and Sick Too"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Plarped It Out"
+      },
+      "attributes": [],
+      "template_ids": [415571],
+      "name": "Plarped It Out"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Unkempt One"
+      },
+      "attributes": [],
+      "template_ids": [417088],
+      "name": "Unkempt One"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Mauve Skull"
+      },
+      "attributes": [],
+      "template_ids": [428274],
+      "name": "Mauve Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Inky Skull with a Brick Wall"
+      },
+      "attributes": [],
+      "template_ids": [429658],
+      "name": "Inky Skull with a Brick Wall"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Skull Invert"
+      },
+      "attributes": [],
+      "template_ids": [430620],
+      "name": "Skull Invert"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Green Daze Z"
+      },
+      "attributes": [],
+      "template_ids": [431558],
+      "name": "Green Daze Z"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Looking Past"
+      },
+      "attributes": [],
+      "template_ids": [432622],
+      "name": "Looking Past"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Frizzled Eye See You There"
+      },
+      "attributes": [],
+      "template_ids": [432899],
+      "name": "Frizzled Eye See You There"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan2022",
+      "data": {
+        "name": "Cya Next Month"
+      },
+      "attributes": [],
+      "template_ids": [433138],
+      "name": "Cya Next Month"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "February 2022 AirDrop Subscription for Byrons NFTart",
+        "month": "February",
+        "year": "2022"
+      },
+      "attributes": [],
+      "template_ids": [432716],
+      "name": "February 2022 AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "The Early Bird",
+        "month": "February",
+        "year": "2022"
+      },
+      "attributes": [],
+      "template_ids": [433294],
+      "name": "The Early Bird"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Snow Zombie",
+        "month": "February",
+        "year": "2022"
+      },
+      "attributes": [],
+      "template_ids": [434210],
+      "name": "Snow Zombie"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Have a Sucker Sucka",
+        "month": "February",
+        "year": "2022"
+      },
+      "attributes": [],
+      "template_ids": [434571],
+      "name": "Have a Sucker Sucka"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Coffee on Purple",
+        "month": "February",
+        "year": "2022"
+      },
+      "attributes": [],
+      "template_ids": [435502],
+      "name": "Coffee on Purple"
     }
   ]
 }

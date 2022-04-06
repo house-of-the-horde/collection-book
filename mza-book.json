@@ -37,6 +37,19 @@
       "name": "Magor 22:1",
       "filters": [
         {
+          "name": "Season 2",
+          "schema_name": "myzickles",
+          "data": {
+            "season": "2"
+          },
+          "custom": [
+            {
+              "key": "rarity",
+              "default": null
+            }
+          ]
+        },
+        {
           "name": "Skullflakes",
           "schema_name": "skullflakes",
           "data": {},
@@ -48,18 +61,6 @@
           ]
         },
         {
-          "name": "Funzie Flakes",
-          "group": "funzieflakes",
-          "data": {}
-        },
-        {
-          "name": "Mining Pass",
-          "schema_name": "magorgardens",
-          "data": {
-            "rarity": "gardening pass"
-          }
-        },
-        {
           "name": "Season 1",
           "group": "season1",
           "data": {},
@@ -69,6 +70,18 @@
               "default": null
             }
           ]
+        },
+        {
+          "name": "Mining Pass",
+          "schema_name": "magorgardens",
+          "data": {
+            "rarity": "gardening pass"
+          }
+        },
+        {
+          "name": "Funzies",
+          "group": "funzies",
+          "data": {}
         }
       ]
     },
@@ -582,6 +595,16 @@
       "card_id": "12GrimeyEarthworms"
     },
     {
+      "schema_name": "henchbeasts",
+      "group": "funzies",
+      "data": {
+        "name": "Cycloptic Bioptic"
+      },
+      "attributes": [],
+      "template_ids": [437713],
+      "name": "Cycloptic Bioptic"
+    },
+    {
       "schema_name": "skullflakes",
       "data": {
         "name": "Magor Skullflake #1"
@@ -836,6 +859,16 @@
       "attributes": [],
       "template_ids": [364612],
       "name": "Magor Blizzard Pass"
+    },
+    {
+      "schema_name": "magorgardens",
+      "data": {
+        "name": "Krubh Hunting Pass",
+        "rarity": "gardening pass"
+      },
+      "attributes": [],
+      "template_ids": [453348],
+      "name": "Krubh Hunting Pass"
     },
     {
       "schema_name": "weedsofmagor",
@@ -1268,7 +1301,7 @@
     },
     {
       "schema_name": "funzieflakes",
-      "group": "funzieflakes",
+      "group": "funzies",
       "data": {
         "name": "Funzie SkullFlake #3"
       },
@@ -1278,7 +1311,7 @@
     },
     {
       "schema_name": "funzieflakes",
-      "group": "funzieflakes",
+      "group": "funzies",
       "data": {
         "name": "Funzie SkullFlake #2"
       },
@@ -1288,7 +1321,7 @@
     },
     {
       "schema_name": "funzieflakes",
-      "group": "funzieflakes",
+      "group": "funzies",
       "data": {
         "name": "Funzie SkullFlake #1"
       },
@@ -1298,7 +1331,7 @@
     },
     {
       "schema_name": "flakeyblends",
-      "group": "funzieflakes",
+      "group": "funzies",
       "data": {
         "name": "Skull Flake Henchman #1"
       },
@@ -1308,13 +1341,83 @@
     },
     {
       "schema_name": "flakeyblends",
-      "group": "funzieflakes",
+      "group": "funzies",
       "data": {
         "name": "Skull Flake Henchman #2"
       },
       "attributes": [],
       "template_ids": [429844],
       "card_id": "Skull Flake Henchman #2"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Barry Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [453888],
+      "name": "Barry Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Maurice Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [453893],
+      "name": "Maurice Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Robin Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [453897],
+      "name": "Robin Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Disco Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [454191],
+      "name": "Disco Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Tony M. Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [475501],
+      "name": "Tony M. Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "Tonette Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [479282],
+      "name": "Tonette Krubh"
+    },
+    {
+      "schema_name": "myzickles",
+      "data": {
+        "name": "B.G.Z. Krubh",
+        "season": "2"
+      },
+      "attributes": [],
+      "template_ids": [479284],
+      "name": "B.G.Z. Krubh"
     }
   ]
 }

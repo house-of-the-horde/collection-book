@@ -1,0 +1,687 @@
+{
+  "name": "the ARTwork of Troy",
+  "series": [
+    {
+      "name": "Sketchbook",
+      "filters": [
+        {
+          "name": "Sketchbook",
+          "schema_name": "sketchbook",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Cats",
+      "filters": [
+        {
+          "name": "Sketch",
+          "group": "mushroomcats-sketch",
+          "data": {}
+        },
+        {
+          "name": "Colourized",
+          "group": "mushroomcats-colourized",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Pretty Kittys",
+      "filters": [
+        {
+          "name": "Pretty Kittys",
+          "schema_name": "prettykittys",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Mixed Medias",
+      "filters": [
+        {
+          "name": "Mixed Medias",
+          "schema_name": "mixedmediass",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Water Colours",
+      "filters": [
+        {
+          "name": "Water Colours",
+          "schema_name": "watercolours",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Promo",
+      "filters": [
+        {
+          "name": "Promo",
+          "schema_name": "troyspromos",
+          "data": {}
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Blue Sunrise"
+      },
+      "attributes": [],
+      "template_ids": [474447],
+      "name": "Blue Sunrise"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Neon Vibes"
+      },
+      "attributes": [],
+      "template_ids": [474453],
+      "name": "Neon Vibes"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Sunflower Swirls"
+      },
+      "attributes": [],
+      "template_ids": [474454],
+      "name": "Sunflower Swirls"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Strollin'"
+      },
+      "attributes": [],
+      "template_ids": [474455],
+      "name": "Strollin'"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Two Girls"
+      },
+      "attributes": [],
+      "template_ids": [474456],
+      "name": "Two Girls"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Drip"
+      },
+      "attributes": [],
+      "template_ids": [474457],
+      "name": "Drip"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "From the Side"
+      },
+      "attributes": [],
+      "template_ids": [474458],
+      "name": "From the Side"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Over the Trees"
+      },
+      "attributes": [],
+      "template_ids": [474459],
+      "name": "Over the Trees"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "No Smoking"
+      },
+      "attributes": [],
+      "template_ids": [474460],
+      "name": "No Smoking"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "In the Wild"
+      },
+      "attributes": [],
+      "template_ids": [474463],
+      "name": "In the Wild"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Edgy"
+      },
+      "attributes": [],
+      "template_ids": [474466],
+      "name": "Edgy"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "So High So Low"
+      },
+      "attributes": [],
+      "template_ids": [474468],
+      "name": "So High So Low"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Look"
+      },
+      "attributes": [],
+      "template_ids": [474471],
+      "name": "Look"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Blue"
+      },
+      "attributes": [],
+      "template_ids": [474474],
+      "name": "Blue"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Giraffe Heart <3 "
+      },
+      "attributes": [],
+      "template_ids": [479643],
+      "name": "Giraffe Heart <3 "
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Nebula"
+      },
+      "attributes": [],
+      "template_ids": [479644],
+      "name": "Nebula"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Flower Print"
+      },
+      "attributes": [],
+      "template_ids": [479645],
+      "name": "Flower Print"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Fixed Grin"
+      },
+      "attributes": [],
+      "template_ids": [479646],
+      "name": "Fixed Grin"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Big Eyes"
+      },
+      "attributes": [],
+      "template_ids": [479647],
+      "name": "Big Eyes"
+    },
+    {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Devil Horns"
+      },
+      "attributes": [],
+      "template_ids": [479648],
+      "name": "Devil Horns"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Mushroom Cats Pack",
+        "img": "QmdPw8zpd51HmcCHKN7Gr3qEdzbqi3idtUwZrSZZTCaKe8"
+      },
+      "attributes": [],
+      "template_ids": [456184],
+      "name": "Mushroom Cats Pack - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Toad Cat",
+        "img": "Qmditu7TFUWRw7FGBWiwhChDfdtQdLrs8SknHaaGhxbp4u"
+      },
+      "attributes": [],
+      "template_ids": [456185],
+      "name": "Toad Cat - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Walking on Stars",
+        "img": "QmZ2uLkaN2g9m2WPQNih1JC2A6oaUy4VPgi6sGdPYsAYzV"
+      },
+      "attributes": [],
+      "template_ids": [456186],
+      "name": "Walking on Stars - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Star Eyed",
+        "img": "QmP35oD1A6JwZQ4XeuTugXcgE9g46qWVS1gAfsZqBcLXqG"
+      },
+      "attributes": [],
+      "template_ids": [456188],
+      "name": "Star Eyed - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Dotty the Spotty Cat",
+        "img": "Qmed5Yg1SA4gt4pJF5rM2DS7QBFQDQhSWWRWtyWoh6Co5V"
+      },
+      "attributes": [],
+      "template_ids": [456189],
+      "name": "Dotty the Spotty Cat - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Shy Fungi",
+        "img": "QmNmFcjpAVQerAxkGkLML4xXxws1pYTupFFoB1v9bQthYd"
+      },
+      "attributes": [],
+      "template_ids": [456190],
+      "name": "Shy Fungi - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Sunshine",
+        "img": "QmZeigjmnVC3g2zFzHT1KMuN8V2WD4ewhbVJrkTjzEBE5P"
+      },
+      "attributes": [],
+      "template_ids": [456192],
+      "name": "Sunshine - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Frazzled",
+        "img": "QmTpgsqoS1G2CJA1UaVqeUUrkrmuHV5w34G8BaUo7ux6zk"
+      },
+      "attributes": [],
+      "template_ids": [456194],
+      "name": "Frazzled - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Salem",
+        "img": "QmdE2jPH4ibLsZ73ggqnQpCv8sG15njzFHMn6o9pWenJUY"
+      },
+      "attributes": [],
+      "template_ids": [456196],
+      "name": "Salem - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "Big Stretch",
+        "img": "QmQBwDufv2ifdMK9kkmNNnzN7H6biStNYiQWG5z9ik6Egp"
+      },
+      "attributes": [],
+      "template_ids": [456198],
+      "name": "Big Stretch - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-sketch",
+      "data": {
+        "name": "9 Cats and Shrooms",
+        "img": "QmfXZFrM6FADfWdtnQzvw2qH8XzLk1feqzVhz2M7L8kMb8"
+      },
+      "attributes": [],
+      "template_ids": [472598],
+      "name": "9 Cats and Shrooms - Sketch"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Mushroom Cats Colourized Pack",
+        "img": "QmQPDKCP4b8q6fceip6V7JkG16qddiLChYW9k2SzRi2QvE"
+      },
+      "attributes": [],
+      "template_ids": [477479],
+      "name": "Mushroom Cats Colourized Pack"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Toad Cat",
+        "img": "QmVPBpVZ56KiBtgsBkjpLCZJabDK4bf2gSXJu5Swethpde"
+      },
+      "attributes": [],
+      "template_ids": [477514],
+      "name": "Toad Cat - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Walking on Stars",
+        "img": "QmTVZjpwEDtYLpgx4YpgkSoWQdV3qsXBNip8nFzxbjD2fB"
+      },
+      "attributes": [],
+      "template_ids": [477511],
+      "name": "Walking on Stars - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Star Eyed",
+        "img": "QmZwPtawsa8bBQUV2Y27u1yj8tyY7WPG2CHu7CedmuR4St"
+      },
+      "attributes": [],
+      "template_ids": [477515],
+      "name": "Star Eyed - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Dotty the Spotty Cat",
+        "img": "QmS6S3WeTF34ELTrz9tWcDhwv2TeXYvykv4idz3Wy4ZRvX"
+      },
+      "attributes": [],
+      "template_ids": [477506],
+      "name": "Dotty the Spotty Cat - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Shy Fungi",
+        "img": "QmNmFcjpAVQerAxkGkLML4xXxws1pYTupFFoB1v9bQthYd"
+      },
+      "attributes": [],
+      "template_ids": [477510],
+      "name": "Shy Fungi"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Sunshine",
+        "img": "QmfPyphmmqoY5gXoVjUbd4T8gS1sJy8ZkaJwvNUEFcLkpd"
+      },
+      "attributes": [],
+      "template_ids": [477513],
+      "name": "Sunshine - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Frazzled",
+        "img": "QmTpgsqoS1G2CJA1UaVqeUUrkrmuHV5w34G8BaUo7ux6zk"
+      },
+      "attributes": [],
+      "template_ids": [477482],
+      "name": "Frazzled - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Salem",
+        "img": "QmPUUie757wCvS1iBVT8kkpR4CrpE47SQLAUUMKdaA7ej1"
+      },
+      "attributes": [],
+      "template_ids": [477516],
+      "name": "Salem - Colourized"
+    },
+    {
+      "schema_name": "mushroomcats",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Big Stretch",
+        "img": "QmPC45LbTVtJTFqmcB1NQo35DkKX4JStWBcXVg22VmTi2E"
+      },
+      "attributes": [],
+      "template_ids": [477512],
+      "name": "Big Stretch - Colourized"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Gem Eyed"
+      },
+      "attributes": [],
+      "template_ids": [443252],
+      "name": "Gem Eyed"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {},
+      "attributes": [],
+      "template_ids": [443314]
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Felix"
+      },
+      "attributes": [],
+      "template_ids": [443608],
+      "name": "Felix"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Attack At Yawn"
+      },
+      "attributes": [],
+      "template_ids": [444701],
+      "name": "Attack At Yawn"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Sleepy Sebby"
+      },
+      "attributes": [],
+      "template_ids": [446778],
+      "name": "Sleepy Sebby"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Colourful Cry"
+      },
+      "attributes": [],
+      "template_ids": [446789],
+      "name": "Colourful Cry"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Not So Siamese Twins"
+      },
+      "attributes": [],
+      "template_ids": [448851],
+      "name": "Not So Siamese Twins"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Tigers"
+      },
+      "attributes": [],
+      "template_ids": [448860],
+      "name": "Tigers"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Sparkles"
+      },
+      "attributes": [],
+      "template_ids": [449213],
+      "name": "Sparkles"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Blue Eyed Mew"
+      },
+      "attributes": [],
+      "template_ids": [454176],
+      "name": "Blue Eyed Mew"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Two Head Trouble"
+      },
+      "attributes": [],
+      "template_ids": [473116],
+      "name": "Two Head Trouble"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Third Eye Feline"
+      },
+      "attributes": [],
+      "template_ids": [473219],
+      "name": "Third Eye Feline"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Two Lovers Entwined "
+      },
+      "attributes": [],
+      "template_ids": [473220],
+      "name": "Two Lovers Entwined "
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Purble Wonder"
+      },
+      "attributes": [],
+      "template_ids": [476003],
+      "name": "Purble Wonder"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Funky Flowers"
+      },
+      "attributes": [],
+      "template_ids": [442284],
+      "name": "Funky Flowers"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Mushrooms"
+      },
+      "attributes": [],
+      "template_ids": [442287],
+      "name": "Mushrooms"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Pink Flowers"
+      },
+      "attributes": [],
+      "template_ids": [442288],
+      "name": "Pink Flowers"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Mr Mushroom Man"
+      },
+      "attributes": [],
+      "template_ids": [450121],
+      "name": "Mr Mushroom Man"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Phrog"
+      },
+      "attributes": [],
+      "template_ids": [451518],
+      "name": "Phrog"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Peachy"
+      },
+      "attributes": [],
+      "template_ids": [454233],
+      "name": "Peachy"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Sammy"
+      },
+      "attributes": [],
+      "template_ids": [473221],
+      "name": "Sammy"
+    },
+    {
+      "schema_name": "watercolours",
+      "data": {
+        "name": "Seaturtle"
+      },
+      "attributes": [],
+      "template_ids": [442283],
+      "name": "Seaturtle"
+    },
+    {
+      "schema_name": "troyspromos",
+      "data": {
+        "name": "Star Fangled Cat"
+      },
+      "attributes": [],
+      "template_ids": [450147],
+      "name": "Star Fangled Cat"
+    }
+  ]
+}

@@ -2,55 +2,55 @@
   "name": "Monica Rempel",
   "series": [
     {
-      "name": "Flower Garden",
+      "name": "Packs",
       "filters": [
+        {
+          "name": "Lady Beetles",
+          "schema_name": "ladybeetles",
+          "data": {}
+        },
         {
           "name": "Flower Garden",
           "schema_name": "flowergarden",
           "data": {}
+        },
+        {
+          "name": "Alien Stickers",
+          "schema_name": "aliensticker",
+          "data": {}
         }
       ]
     },
     {
-      "name": "Portraits",
+      "name": "Animated Art",
+      "filters": [
+        {
+          "name": "Animated Art",
+          "schema_name": "animatedarts",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Animals",
       "filters": [
         {
           "name": "Baby Animals",
-          "group": "babyanimalportraits",
+          "schema_name": "babyanimals",
           "data": {}
         },
         {
           "name": "Spiders",
-          "group": "spiderportraits",
+          "schema_name": "spiders",
           "data": {}
         },
         {
-          "name": "Aliens",
-          "group": "alienportraits",
-          "data": {}
-        }
-      ]
-    },
-    {
-      "name": "Landscapes",
-      "filters": [
-        {
-          "name": "Landscapes",
-          "group": "landscapes",
-          "data": {}
-        }
-      ]
-    },
-    {
-      "name": "Stickers",
-      "filters": [
-        {
-          "name": "Aliens",
-          "schema_name": "aliensticker",
+          "name": "Furbabies",
+          "schema_name": "furbabies",
           "data": {}
         },
         {
-          "name": "Animals",
+          "name": "Stickers",
           "schema_name": "stickers",
           "data": {}
         }
@@ -67,11 +67,11 @@
       ]
     },
     {
-      "name": "Photographs",
+      "name": "Assorted",
       "filters": [
         {
-          "name": "Photographs",
-          "schema_name": "photographs",
+          "name": "Assorted",
+          "group": "assorted",
           "data": {}
         }
       ]
@@ -223,6 +223,24 @@
       "name": "Blue Morpho"
     },
     {
+      "schema_name": "stickers",
+      "data": {
+        "name": "Giant Giraffe Sticker"
+      },
+      "attributes": [],
+      "template_ids": [451555],
+      "name": "Giant Giraffe Sticker"
+    },
+    {
+      "schema_name": "stickers",
+      "data": {
+        "name": "2 Giraffes"
+      },
+      "attributes": [],
+      "template_ids": [451784],
+      "name": "2 Giraffes"
+    },
+    {
       "schema_name": "monicasmagor",
       "data": {
         "name": "Magorfly 1"
@@ -304,56 +322,7 @@
       "card_id": "The Flowers of Id"
     },
     {
-      "schema_name": "blendedupart",
-      "group": "landscapes",
-      "data": {
-        "name": "Prairie Sunrise"
-      },
-      "attributes": [],
-      "template_ids": [362491],
-      "card_id": "Prairie Sunrise"
-    },
-    {
-      "schema_name": "blendedupart",
-      "group": "landscapes",
-      "data": {
-        "name": "Prairie Sunset"
-      },
-      "attributes": [],
-      "template_ids": [399405],
-      "card_id": "Prairie Sunset"
-    },
-    {
-      "schema_name": "animatedarts",
-      "group": "landscapes",
-      "data": {
-        "name": "Prairie Sunrise fade to Sunset"
-      },
-      "attributes": [],
-      "template_ids": [401993],
-      "card_id": "Prairie Sunrise fade to Sunset"
-    },
-    {
-      "schema_name": "blendedupart",
-      "data": {
-        "name": "Blue Alien"
-      },
-      "attributes": [],
-      "template_ids": [366406],
-      "card_id": "Blue Alien"
-    },
-    {
-      "schema_name": "photographs",
-      "data": {
-        "name": "Sunflower"
-      },
-      "attributes": [],
-      "template_ids": [240512],
-      "card_id": "Sunflower"
-    },
-    {
       "schema_name": "babyanimals",
-      "group": "babyanimalportraits",
       "data": {
         "name": "Newborn Kitten"
       },
@@ -363,7 +332,6 @@
     },
     {
       "schema_name": "babyanimals",
-      "group": "babyanimalportraits",
       "data": {
         "name": "Litter Mates"
       },
@@ -373,7 +341,6 @@
     },
     {
       "schema_name": "babyanimals",
-      "group": "babyanimalportraits",
       "data": {
         "name": "Newborn Bunny"
       },
@@ -383,7 +350,6 @@
     },
     {
       "schema_name": "babyanimals",
-      "group": "babyanimalportraits",
       "data": {
         "name": "Newborn Giraffe"
       },
@@ -393,7 +359,6 @@
     },
     {
       "schema_name": "babyanimals",
-      "group": "babyanimalportraits",
       "data": {
         "name": "Baby Wolf"
       },
@@ -402,8 +367,25 @@
       "card_id": "Baby Wolf"
     },
     {
+      "schema_name": "babyanimals",
+      "data": {
+        "name": "Owlet"
+      },
+      "attributes": [],
+      "template_ids": [457621],
+      "name": "Owlet"
+    },
+    {
+      "schema_name": "babyanimals",
+      "data": {
+        "name": "Baby Conure Parrot"
+      },
+      "attributes": [],
+      "template_ids": [460341],
+      "name": "Baby Conure Parrot"
+    },
+    {
       "schema_name": "spiders",
-      "group": "spiderportraits",
       "data": {
         "name": "Versicolor Sling"
       },
@@ -413,7 +395,6 @@
     },
     {
       "schema_name": "blendedupart",
-      "group": "alienportraits",
       "data": {
         "name": "Blue Alien"
       },
@@ -591,6 +572,363 @@
       "attributes": [],
       "template_ids": [433467],
       "name": "Devils Doorbell Magor Flower"
+    },
+    {
+      "schema_name": "flowergarden",
+      "data": {
+        "name": "Experimental Charcoal Burn"
+      },
+      "attributes": [],
+      "template_ids": [437616],
+      "name": "Experimental Charcoal Burn"
+    },
+    {
+      "schema_name": "animatedarts",
+      "data": {
+        "name": "Prairie Sunrise fade to Sunset"
+      },
+      "attributes": [],
+      "template_ids": [401993],
+      "name": "Prairie Sunrise fade to Sunset"
+    },
+    {
+      "schema_name": "animatedarts",
+      "data": {
+        "name": "Chroma"
+      },
+      "attributes": [],
+      "template_ids": [439378],
+      "name": "Chroma"
+    },
+    {
+      "schema_name": "animatedarts",
+      "data": {
+        "name": "Butterfly Collage"
+      },
+      "attributes": [],
+      "template_ids": [443949],
+      "name": "Butterfly Collage"
+    },
+    {
+      "schema_name": "animatedarts",
+      "data": {
+        "name": "Glowing Ladybird Beetles"
+      },
+      "attributes": [],
+      "template_ids": [472944],
+      "name": "Glowing Ladybird Beetles"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Red Lady Beetle",
+        "img": "QmcurfbZP9fi7BTUxH7gV2SP5qT222jq2k5UWhurnGWWSc"
+      },
+      "attributes": [],
+      "template_ids": [445871],
+      "name": "Red Lady Beetle"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Yellow Lady Beetle",
+        "img": "Qmczr3PBhyFfrmuqsbxobyHNAK4euhnxmzCY3btYVxFnLb"
+      },
+      "attributes": [],
+      "template_ids": [446795],
+      "name": "Yellow Lady Beetle"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Asian Ladybird Beetle",
+        "img": "QmPMqsvhPZdfwLKydykmNsVRYRCgYyA7ZugmNYzLSK2kai"
+      },
+      "attributes": [],
+      "template_ids": [452146],
+      "name": "Asian Ladybird Beetle"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Blue Ladybird Beetle",
+        "img": "QmfH8R1jSipMhN1LMAwA2xgH4ghHzKP31yJpdSuh4YZaEv"
+      },
+      "attributes": [],
+      "template_ids": [449252],
+      "name": "Blue Ladybird Beetle"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "img": "QmNbMwrcf79L9uUEthMxBrCFjZkgtxQQ39Y8ErRsneTgL4",
+        "name": "Red Ladybird Beetle"
+      },
+      "attributes": [],
+      "template_ids": [453298],
+      "name": "Red Ladybird Beetle - Beetle Frame"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Yellow Ladybird Beetle",
+        "img": "QmSLFQks2axCkaXiyC9GbdoZw15SuWqmk9WD3z1uJLNASJ"
+      },
+      "attributes": [],
+      "template_ids": [453299],
+      "name": "Yellow Ladybird Beetle - Beetle Frame"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "img": "QmRttxGraNxLwvLGMmqfqmTTgVNvFuNMdsBjQGzzA73ked",
+        "name": "Asian Ladybird Beetle"
+      },
+      "attributes": [],
+      "template_ids": [453311],
+      "name": "Asian Ladybird Beetle - Beetle Frame"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "img": "QmVDhgFCE94psyWs2ZCz3UufDgku7Prj3h3BTRhWnmhDFA",
+        "name": "Blue Ladybird Beetle"
+      },
+      "attributes": [],
+      "template_ids": [453300],
+      "name": "Blue Ladybird Beetle - Beetle Frame"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Ladybird Beetle in black and white"
+      },
+      "attributes": [],
+      "template_ids": [453361],
+      "name": "Ladybird Beetle in black and white"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Yellow Ladybird Beetle in black and white"
+      },
+      "attributes": [],
+      "template_ids": [453362],
+      "name": "Yellow Ladybird Beetle in black and white"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Asian Ladybird Beetle in black and white"
+      },
+      "attributes": [],
+      "template_ids": [453364],
+      "name": "Asian Ladybird Beetle in black and white"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Blue Ladybird Beetle in black and white"
+      },
+      "attributes": [],
+      "template_ids": [453363],
+      "name": "Blue Ladybird Beetle in black and white"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Ladybird Beetle Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453365],
+      "name": "Ladybird Beetle Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Yellow Ladybird Beetle Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453366],
+      "name": "Yellow Ladybird Beetle Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Asian Ladybird Beetle Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453368],
+      "name": "Asian Ladybird Beetle Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Blue Ladybird Beetle Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453367],
+      "name": "Blue Ladybird Beetle Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Ladybirds of Monica Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453369],
+      "name": "Ladybirds of Monica Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Animated Ladybirds of Monica Sticker"
+      },
+      "attributes": [],
+      "template_ids": [453371],
+      "name": "Animated Ladybirds of Monica Sticker"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Four Black and White Ladybirds"
+      },
+      "attributes": [],
+      "template_ids": [453372],
+      "name": "Four Black and White Ladybirds"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Group of Four Ladybirds"
+      },
+      "attributes": [],
+      "template_ids": [453373],
+      "name": "Group of Four Ladybirds"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Yellow Ladybird with Greyscale Blend"
+      },
+      "attributes": [],
+      "template_ids": [479664],
+      "name": "Yellow Ladybird with Greyscale Blend"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Blue Ladybird with Greyscale Blend"
+      },
+      "attributes": [],
+      "template_ids": [479666],
+      "name": "Blue Ladybird with Greyscale Blend"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Asian Ladybird with Greyscale Blend"
+      },
+      "attributes": [],
+      "template_ids": [479667],
+      "name": "Asian Ladybird with Greyscale Blend"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "Red Ladybird with Greyscale Blend"
+      },
+      "attributes": [],
+      "template_ids": [479668],
+      "name": "Red Ladybird with Greyscale Blend"
+    },
+    {
+      "schema_name": "ladybeetles",
+      "data": {
+        "name": "The Original Four Ladybirds"
+      },
+      "attributes": [],
+      "template_ids": [479671],
+      "name": "The Original Four Ladybirds"
+    },
+    {
+      "schema_name": "furbabies",
+      "data": {
+        "name": "Sebastian"
+      },
+      "attributes": [],
+      "template_ids": [436008],
+      "name": "Sebastian"
+    },
+    {
+      "schema_name": "blendedupart",
+      "group": "assorted",
+      "data": {
+        "name": "Blue Alien"
+      },
+      "attributes": [],
+      "template_ids": [366406],
+      "card_id": "Blue Alien"
+    },
+    {
+      "schema_name": "photographs",
+      "group": "assorted",
+      "data": {
+        "name": "Sunflower"
+      },
+      "attributes": [],
+      "template_ids": [240512],
+      "card_id": "Sunflower"
+    },
+    {
+      "schema_name": "pastelart",
+      "group": "assorted",
+      "data": {
+        "name": "A Dozen Blue Roses"
+      },
+      "attributes": [],
+      "template_ids": [440566],
+      "card_id": "A Dozen Blue Roses"
+    },
+    {
+      "schema_name": "pastelart",
+      "group": "assorted",
+      "data": {
+        "name": "The Scarred Heart"
+      },
+      "attributes": [],
+      "template_ids": [440051],
+      "card_id": "The Scarred Heart"
+    },
+    {
+      "schema_name": "northernsky",
+      "group": "assorted",
+      "data": {
+        "name": "Aurora Borealis"
+      },
+      "attributes": [],
+      "template_ids": [436061],
+      "card_id": "Aurora Borealis"
+    },
+    {
+      "schema_name": "blendedupart",
+      "group": "assorted",
+      "data": {
+        "name": "Prairie Sunrise"
+      },
+      "attributes": [],
+      "template_ids": [362491],
+      "card_id": "Prairie Sunrise"
+    },
+    {
+      "schema_name": "blendedupart",
+      "group": "assorted",
+      "data": {
+        "name": "Prairie Sunset"
+      },
+      "attributes": [],
+      "template_ids": [399405],
+      "card_id": "Prairie Sunset"
     }
   ]
 }

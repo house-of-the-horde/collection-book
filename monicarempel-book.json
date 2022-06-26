@@ -2,21 +2,21 @@
   "name": "Monica Rempel",
   "series": [
     {
-      "name": "Packs",
+      "name": "Lady Beetles",
       "filters": [
         {
           "name": "Lady Beetles",
           "schema_name": "ladybeetles",
           "data": {}
-        },
+        }
+      ]
+    },
+    {
+      "name": "Flower Garden",
+      "filters": [
         {
           "name": "Flower Garden",
           "schema_name": "flowergarden",
-          "data": {}
-        },
-        {
-          "name": "Alien Stickers",
-          "schema_name": "aliensticker",
           "data": {}
         }
       ]
@@ -27,6 +27,21 @@
         {
           "name": "Animated Art",
           "schema_name": "animatedarts",
+          "data": {}
+        }
+      ]
+    },
+    {
+      "name": "Stickers",
+      "filters": [
+        {
+          "name": "Animals",
+          "schema_name": "stickers",
+          "data": {}
+        },
+        {
+          "name": "Aliens",
+          "schema_name": "aliensticker",
           "data": {}
         }
       ]
@@ -47,11 +62,6 @@
         {
           "name": "Furbabies",
           "schema_name": "furbabies",
-          "data": {}
-        },
-        {
-          "name": "Stickers",
-          "schema_name": "stickers",
           "data": {}
         }
       ]
@@ -171,11 +181,11 @@
     {
       "schema_name": "aliensticker",
       "data": {
-        "name": "Yellowish Alien in a Santa Hat"
+        "name": "OG Alien in a Santa Hat"
       },
       "attributes": [],
-      "template_ids": [394011],
-      "name": "Yellow Santa Alien"
+      "template_ids": [394008],
+      "name": "OG Alien in a Santa Hat"
     },
     {
       "schema_name": "aliensticker",
@@ -183,17 +193,188 @@
         "name": "Greyish Alien in a Santa Hat"
       },
       "attributes": [],
-      "template_ids": [394009],
-      "name": "Grey Santa Alien"
+      "template_ids": [394009, 394010],
+      "name": "Greyish Alien in a Santa Hat"
     },
     {
       "schema_name": "aliensticker",
       "data": {
-        "name": "OG Alien in a Santa Hat"
+        "name": "Yellowish Alien in a Santa Hat"
       },
       "attributes": [],
-      "template_ids": [394008],
-      "name": "OG Santa Alien"
+      "template_ids": [394011],
+      "name": "Yellowish Alien in a Santa Hat"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Greenish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [396071],
+      "name": "Greenish Alien in a Santa Hat"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Orangish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [396072],
+      "name": "Orangish Alien in a Santa Hat"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Pinkish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [396074],
+      "name": "Pinkish Alien in a Santa Hat"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Purplish Alien in a Santa Hat"
+      },
+      "attributes": [],
+      "template_ids": [396075],
+      "name": "Purplish Alien in a Santa Hat"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Alien and a Butterfly"
+      },
+      "attributes": [],
+      "template_ids": [486035],
+      "name": "Alien and a Butterfly"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Three Eyes Glow"
+      },
+      "attributes": [],
+      "template_ids": [486038],
+      "name": "Three Eyes Glow"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Vibrantly Green Alien Being"
+      },
+      "attributes": [],
+      "template_ids": [486039],
+      "name": "Vibrantly Green Alien Being"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Fanned Out Aliens"
+      },
+      "attributes": [],
+      "template_ids": [486047],
+      "name": "Fanned Out Aliens"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Galactic Static"
+      },
+      "attributes": [],
+      "template_ids": [486048],
+      "name": "Galactic Static"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Static Glowing Three Eyes"
+      },
+      "attributes": [],
+      "template_ids": [486049],
+      "name": "Static Glowing Three Eyes"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Grey Scales"
+      },
+      "attributes": [],
+      "template_ids": [486050],
+      "name": "Grey Scales"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Grey Croc Skinned Alien"
+      },
+      "attributes": [],
+      "template_ids": [486056],
+      "name": "Grey Croc Skinned Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Green Croc Skinned Alien"
+      },
+      "attributes": [],
+      "template_ids": [486057],
+      "name": "Green Croc Skinned Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Four Blue Eyes Alien"
+      },
+      "attributes": [],
+      "template_ids": [486062],
+      "name": "Four Blue Eyes Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Three Pink Eyes Alien"
+      },
+      "attributes": [],
+      "template_ids": [486064],
+      "name": "Three Pink Eyes Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Two Heads Alien"
+      },
+      "attributes": [],
+      "template_ids": [486071],
+      "name": "Two Heads Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Hot Pink Alien"
+      },
+      "attributes": [],
+      "template_ids": [486331],
+      "name": "Hot Pink Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Green Scales Alien"
+      },
+      "attributes": [],
+      "template_ids": [486334],
+      "name": "Green Scales Alien"
+    },
+    {
+      "schema_name": "aliensticker",
+      "data": {
+        "name": "Cosmic Alien Animation"
+      },
+      "attributes": [],
+      "template_ids": [486365],
+      "name": "Cosmic Alien Animation"
     },
     {
       "schema_name": "stickers",
@@ -239,6 +420,15 @@
       "attributes": [],
       "template_ids": [451784],
       "name": "2 Giraffes"
+    },
+    {
+      "schema_name": "stickers",
+      "data": {
+        "name": "Two Bunnies Sticker"
+      },
+      "attributes": [],
+      "template_ids": [489913],
+      "name": "Two Bunnies Sticker"
     },
     {
       "schema_name": "monicasmagor",
@@ -929,6 +1119,16 @@
       "attributes": [],
       "template_ids": [399405],
       "card_id": "Prairie Sunset"
+    },
+    {
+      "schema_name": "pastelart",
+      "group": "assorted",
+      "data": {
+        "name": "Bunny Hugs"
+      },
+      "attributes": [],
+      "template_ids": [489912],
+      "card_id": "Bunny Hugs"
     }
   ]
 }

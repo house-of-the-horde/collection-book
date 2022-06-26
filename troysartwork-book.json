@@ -249,6 +249,15 @@
       "name": "Devil Horns"
     },
     {
+      "schema_name": "sketchbook",
+      "data": {
+        "name": "Alien Cat "
+      },
+      "attributes": [],
+      "template_ids": [495225],
+      "name": "Alien Cat "
+    },
+    {
       "schema_name": "mushroomcats",
       "group": "mushroomcats-sketch",
       "data": {
@@ -481,6 +490,16 @@
     },
     {
       "schema_name": "prettykittys",
+      "group": "mushroomcats-colourized",
+      "data": {
+        "name": "Cats and Shrooms Colourful Blend"
+      },
+      "attributes": [],
+      "template_ids": [489554],
+      "name": "Cats and Shrooms Colourful Blend"
+    },
+    {
+      "schema_name": "prettykittys",
       "data": {
         "name": "Gem Eyed"
       },
@@ -603,6 +622,69 @@
       "name": "Purble Wonder"
     },
     {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Colourful Meows"
+      },
+      "attributes": [],
+      "template_ids": [479424],
+      "name": "Colourful Meows"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Magic Cat"
+      },
+      "attributes": [],
+      "template_ids": [487227],
+      "name": "Magic Cat"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Becky&Jane"
+      },
+      "attributes": [],
+      "template_ids": [487228],
+      "name": "Becky&Jane"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Cat Bun"
+      },
+      "attributes": [],
+      "template_ids": [489914],
+      "name": "Cat Bun"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Smokin Starshine"
+      },
+      "attributes": [],
+      "template_ids": [493647],
+      "name": "Smokin Starshine"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Butterfly Dance"
+      },
+      "attributes": [],
+      "template_ids": [493938],
+      "name": "Butterfly Dance"
+    },
+    {
+      "schema_name": "prettykittys",
+      "data": {
+        "name": "Pretty Boy"
+      },
+      "attributes": [],
+      "template_ids": [495910],
+      "name": "Pretty Boy"
+    },
+    {
       "schema_name": "mixedmediass",
       "data": {
         "name": "Funky Flowers"
@@ -664,6 +746,15 @@
       "attributes": [],
       "template_ids": [473221],
       "name": "Sammy"
+    },
+    {
+      "schema_name": "mixedmediass",
+      "data": {
+        "name": "Birthday Cake!"
+      },
+      "attributes": [],
+      "template_ids": [487536],
+      "name": "Birthday Cake!"
     },
     {
       "schema_name": "watercolours",

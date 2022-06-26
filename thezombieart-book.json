@@ -1,0 +1,877 @@
+{
+  "name": "The Zombie Art of Byron",
+  "series": [
+    {
+      "name": "Subscription",
+      "filters": [
+        {
+          "name": "April '22",
+          "schema_name": "subscription",
+          "data": {
+            "month": "April",
+            "year": "2022"
+          }
+        },
+        {
+          "name": "March '22",
+          "schema_name": "subscription",
+          "data": {
+            "month": "March",
+            "year": "2022"
+          }
+        },
+        {
+          "name": "February '22",
+          "group": "subscription-feb22",
+          "data": {}
+        },
+        {
+          "name": "January '22",
+          "group": "subscription-jan22",
+          "data": {}
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "January 2022 EOS AirDrop Subscription for Byrons NFTart"
+      },
+      "attributes": [],
+      "template_ids": [3081],
+      "name": "January 2022 EOS AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Grinning cuz Winning"
+      },
+      "attributes": [],
+      "template_ids": [3088],
+      "name": "Grinning cuz Winning"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Zombie Cat Killed 2021"
+      },
+      "attributes": [],
+      "template_ids": [3093],
+      "name": "Zombie Cat Killed 2021"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Zombie With All the Hair"
+      },
+      "attributes": [],
+      "template_ids": [3108],
+      "name": "Zombie With All the Hair"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Skull Demon of EOS"
+      },
+      "attributes": [],
+      "template_ids": [3166],
+      "name": "Skull Demon of EOS"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Zombie Derp Cat"
+      },
+      "attributes": [],
+      "template_ids": [3184],
+      "name": "Zombie Derp Cat"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "There's a Fly in my EOS"
+      },
+      "attributes": [],
+      "template_ids": [3208],
+      "name": "There's a Fly in my EOS"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "There's a Fly In My EOS - colourized"
+      },
+      "attributes": [],
+      "template_ids": [3212],
+      "name": "There's a Fly In My EOS - colourized"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Sunny Saturday"
+      },
+      "attributes": [],
+      "template_ids": [3251],
+      "name": "Sunny Saturday"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Crescent Moon"
+      },
+      "attributes": [],
+      "template_ids": [3253],
+      "name": "Crescent Moon"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Monday Morning Coffee"
+      },
+      "attributes": [],
+      "template_ids": [3283],
+      "name": "Monday Morning Coffee"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "YinYang on EOS"
+      },
+      "attributes": [],
+      "template_ids": [3312],
+      "name": "YinYang on EOS"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "EOS Hodler"
+      },
+      "attributes": [],
+      "template_ids": [3330],
+      "name": "EOS Hodler"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Zombie Grabber"
+      },
+      "attributes": [],
+      "template_ids": [3366],
+      "name": "Zombie Grabber"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Watercolour Zombie Cat on Purple"
+      },
+      "attributes": [],
+      "template_ids": [3385],
+      "name": "Watercolour Zombie Cat on Purple"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Oranged Up Skull"
+      },
+      "attributes": [],
+      "template_ids": [3403],
+      "name": "Oranged Up Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Chicken Soup for My Cold"
+      },
+      "attributes": [],
+      "template_ids": [3408],
+      "name": "Chicken Soup for My Cold"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Feeling Sick and Blue Too"
+      },
+      "attributes": [],
+      "template_ids": [3423],
+      "name": "Feeling Sick and Blue Too"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Tealed Out"
+      },
+      "attributes": [],
+      "template_ids": [3495],
+      "name": "Tealed Out"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Unkempt Too"
+      },
+      "attributes": [],
+      "template_ids": [3518],
+      "name": "Unkempt Too"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Violet Skull"
+      },
+      "attributes": [],
+      "template_ids": [3574],
+      "name": "Violet Skull"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Ink Skull with Shadows"
+      },
+      "attributes": [],
+      "template_ids": [3603],
+      "name": "Ink Skull with Shadows"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Orange Hazed Skull Daze"
+      },
+      "attributes": [],
+      "template_ids": [3656],
+      "name": "Orange Hazed Skull Daze"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Flashy Z"
+      },
+      "attributes": [],
+      "template_ids": [3701],
+      "name": "Flashy Z"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-jan22",
+      "data": {
+        "name": "Early Martin"
+      },
+      "attributes": [],
+      "template_ids": [3722],
+      "name": "Early Martin"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "February 2022 EOS AirDrop Subscription for Byrons NFTart"
+      },
+      "attributes": [],
+      "template_ids": [3728],
+      "name": "February 2022 EOS AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Glowing Deadhead"
+      },
+      "attributes": [],
+      "template_ids": [3800],
+      "name": "Glowing Deadhead"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Cya Next Month"
+      },
+      "attributes": [],
+      "template_ids": [3811],
+      "name": "Cya Next Month"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "The Early Bird on EOS"
+      },
+      "attributes": [],
+      "template_ids": [3817],
+      "name": "The Early Bird on EOS"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Snow Zombie Invert"
+      },
+      "attributes": [],
+      "template_ids": [3874],
+      "name": "Snow Zombie Invert"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Im Down to Clown"
+      },
+      "attributes": [],
+      "template_ids": [3888],
+      "name": "Im Down to Clown"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Coffee on Red"
+      },
+      "attributes": [],
+      "template_ids": [3922],
+      "name": "Coffee on Red"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Red unDead Coffee"
+      },
+      "attributes": [],
+      "template_ids": [3934],
+      "name": "Red unDead Coffee"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Purple Cat Back"
+      },
+      "attributes": [],
+      "template_ids": [3958],
+      "name": "Purple Cat Back"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Monday Yadnom"
+      },
+      "attributes": [],
+      "template_ids": [4047],
+      "name": "Monday Yadnom"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Mondays Gone"
+      },
+      "attributes": [],
+      "template_ids": [4060],
+      "name": "Mondays Gone"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "A Simple Flower"
+      },
+      "attributes": [],
+      "template_ids": [4080],
+      "name": "A Simple Flower"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Foggy Memory"
+      },
+      "attributes": [],
+      "template_ids": [4172],
+      "name": "Foggy Memory"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Contained Rage"
+      },
+      "attributes": [],
+      "template_ids": [4197],
+      "name": "Contained Rage"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Gelly Roll Gel Pen Zombie"
+      },
+      "attributes": [],
+      "template_ids": [4245],
+      "name": "Gelly Roll Gel Pen Zombie"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Vibrant Memory"
+      },
+      "attributes": [],
+      "template_ids": [4261],
+      "name": "Vibrant Memory"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Coffee Contemplation Black and White"
+      },
+      "attributes": [],
+      "template_ids": [4306],
+      "name": "Coffee Contemplation Black and White"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Violet Dusk"
+      },
+      "attributes": [],
+      "template_ids": [4329],
+      "name": "Violet Dusk"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Twitched from Wax"
+      },
+      "attributes": [],
+      "template_ids": [4357],
+      "name": "Twitched from Wax"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "The Two Inflamed"
+      },
+      "attributes": [],
+      "template_ids": [4374],
+      "name": "The Two Inflamed"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Again, Back Again"
+      },
+      "attributes": [],
+      "template_ids": [4395],
+      "name": "Again, Back Again"
+    },
+    {
+      "schema_name": "subscription",
+      "group": "subscription-feb22",
+      "data": {
+        "name": "Red Eyes"
+      },
+      "attributes": [],
+      "template_ids": [4428],
+      "name": "Red Eyes"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "MARCH 2022 EOS AirDrop Subscription for Byrons NFTart"
+      },
+      "attributes": [],
+      "template_ids": [4436],
+      "name": "MARCH 2022 EOS AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Blue Back Zombie"
+      },
+      "attributes": [],
+      "template_ids": [4486],
+      "name": "Blue Back Zombie"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Zombie Guy"
+      },
+      "attributes": [],
+      "template_ids": [4493],
+      "name": "Zombie Guy"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Februarys End"
+      },
+      "attributes": [],
+      "template_ids": [4498],
+      "name": "Februarys End"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Final February EOS Zombie"
+      },
+      "attributes": [],
+      "template_ids": [4514],
+      "name": "Final February EOS Zombie"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Early Worm on EOS"
+      },
+      "attributes": [],
+      "template_ids": [4518, 4519],
+      "name": "Early Worm on EOS"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "A Head of Intensity"
+      },
+      "attributes": [],
+      "template_ids": [4549],
+      "name": "A Head of Intensity"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Crazy"
+      },
+      "attributes": [],
+      "template_ids": [4555],
+      "name": "Crazy"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Undead Flower"
+      },
+      "attributes": [],
+      "template_ids": [4565],
+      "name": "Undead Flower"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "White Hair Zombie Sketch"
+      },
+      "attributes": [],
+      "template_ids": [4583],
+      "name": "White Hair Zombie Sketch"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "A Zombie Cat Sketch"
+      },
+      "attributes": [],
+      "template_ids": [4602],
+      "name": "A Zombie Cat Sketch"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Trunked Up Tim"
+      },
+      "attributes": [],
+      "template_ids": [4651],
+      "name": "Trunked Up Tim"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Coloured Up Trunked Up Tim"
+      },
+      "attributes": [],
+      "template_ids": [4684],
+      "name": "Coloured Up Trunked Up Tim"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Edged In Orange"
+      },
+      "attributes": [],
+      "template_ids": [4703],
+      "name": "Edged In Orange"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Deaths Clover"
+      },
+      "attributes": [],
+      "template_ids": [4742],
+      "name": "Deaths Clover"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "My Inky Self"
+      },
+      "attributes": [],
+      "template_ids": [4754],
+      "name": "My Inky Self"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Half Submerged"
+      },
+      "attributes": [],
+      "template_ids": [4789],
+      "name": "Half Submerged"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Hecka Tired Sketch"
+      },
+      "attributes": [],
+      "template_ids": [4792],
+      "name": "Hecka Tired Sketch"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Abstract in a Hat"
+      },
+      "attributes": [],
+      "template_ids": [4825],
+      "name": "Abstract in a Hat"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Ink Chomper"
+      },
+      "attributes": [],
+      "template_ids": [4827],
+      "name": "Ink Chomper"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Grey Matter Muncher"
+      },
+      "attributes": [],
+      "template_ids": [4844],
+      "name": "Grey Matter Muncher"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Working"
+      },
+      "attributes": [],
+      "template_ids": [4890],
+      "name": "Working"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "APRIL 2022 EOS AirDrop Subscription for Byrons NFTart"
+      },
+      "attributes": [],
+      "template_ids": [4891],
+      "name": "APRIL 2022 EOS AirDrop Subscription for Byrons NFTart"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "End of March Flower"
+      },
+      "attributes": [],
+      "template_ids": [4893],
+      "name": "End of March Flower"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Clowning"
+      },
+      "attributes": [],
+      "template_ids": [4896],
+      "name": "Clowning"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Inky Sketchy Zombie Cat"
+      },
+      "attributes": [],
+      "template_ids": [4899],
+      "name": "Inky Sketchy Zombie Cat"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Sharpie"
+      },
+      "attributes": [],
+      "template_ids": [4909],
+      "name": "Sharpie"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "She Said"
+      },
+      "attributes": [],
+      "template_ids": [4925],
+      "name": "She Said"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Purple Skull on Pink"
+      },
+      "attributes": [],
+      "template_ids": [4930],
+      "name": "Purple Skull on Pink"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Sketchy Hairless and Wrinkled"
+      },
+      "attributes": [],
+      "template_ids": [4956],
+      "name": "Sketchy Hairless and Wrinkled"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Another Bad Cup"
+      },
+      "attributes": [],
+      "template_ids": [4958],
+      "name": "Another Bad Cup"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Drumstick of the Dead"
+      },
+      "attributes": [],
+      "template_ids": [4967],
+      "name": "Drumstick of the Dead"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Curly Curl"
+      },
+      "attributes": [],
+      "template_ids": [4973],
+      "name": "Curly Curl"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Toxic Jelly"
+      },
+      "attributes": [],
+      "template_ids": [4977],
+      "name": "Toxic Jelly"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Drekig"
+      },
+      "attributes": [],
+      "template_ids": [4978],
+      "name": "Drekig"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Old Ogre Invert"
+      },
+      "attributes": [],
+      "template_ids": [4979],
+      "name": "Old Ogre Invert"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Creeps Not Peeps"
+      },
+      "attributes": [],
+      "template_ids": [4981],
+      "name": "Creeps Not Peeps"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Too Much Coffee Man"
+      },
+      "attributes": [],
+      "template_ids": [5002],
+      "name": "Too Much Coffee Man"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Byrons Unmotivated Self"
+      },
+      "attributes": [],
+      "template_ids": [5024],
+      "name": "Byrons Unmotivated Self"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Beard No Stache"
+      },
+      "attributes": [],
+      "template_ids": [5042],
+      "name": "Beard No Stache"
+    },
+    {
+      "schema_name": "subscription",
+      "data": {
+        "name": "Death Moth"
+      },
+      "attributes": [],
+      "template_ids": [5159],
+      "name": "Death Moth"
+    }
+  ]
+}
